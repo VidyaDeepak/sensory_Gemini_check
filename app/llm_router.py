@@ -43,7 +43,7 @@ from .gemini_client import GEMINI_MODEL, _get_client
 
 logger = logging.getLogger(__name__)
 
-USE_LLM_ROUTER = os.environ.get("USE_LLM_ROUTER", "false").lower() == "true"
+USE_LLM_ROUTER = os.environ.get("USE_LLM_ROUTER", "True").lower() == "true"
 
 # A "round" is one call to generate_content; the model can return several
 # tool calls within a single round (handled in parallel below) and/or the
