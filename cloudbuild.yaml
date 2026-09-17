@@ -1,0 +1,39 @@
+substitutions:
+  _SERVICE_NAME: sensory-agent
+  _REGION: europe-west1
+  _REPO: sst-agent-repo # Artifact Registry repo name
+  _TAG: latest
+  _USE_LLM_ROUTER: 'false' # override per-trigger to enable the LLM tool-calling agent
+
+steps:
+  # Build the container image
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - build
+      - '-t'
+      - '${_REGION}-docker.pkg.dev/$PROJECT_ID/${_REPO}/${_SERVICE_NAME}:${_TAG}'
+      - '.'
+
+  # Push it to Artifact Registry
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - push
+      - '${_REGION}-docker.pkg.dev/$PROJECT_ID/${_REPO}/${_SERVICE_NAME}:${_TAG}'
+
+  # Deploy to Cloud Run
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - run
+      - deploy
+      - '${_SERVICE_NAME}'
+      - '--image=${_REGION}-docker.pkg.dev/$PROJECT_ID/${_REPO}/${_SERVICE_NAME}:${_TAG}'
+      - '--region=${_REGION}'
+      - '--allow-unauthenticated'
+      - '--set-env-vars=GOOGLE_CLOUD_PROJECT=$PROJECT_ID,GCP_LOCATION=${_REGION},USE_LLM_ROUTER=${_USE_LLM_ROUTER}'
+
+images:
+  - '${_REGION}-docker.pkg.dev/$PROJECT_ID/${_REPO}/${_SERVICE_NAME}:${_TAG}'
+
+options:
+  logging: CLOUD_LOGGING_ONLY

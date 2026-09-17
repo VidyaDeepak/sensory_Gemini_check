@@ -1,0 +1,925 @@
+country_code,category_code,record_type,product_code,product_name,benefit,value
+IN,FC,blind_hut_benefit_score,IN640S,Fragrance fresh florals - celestial AI: IN640S,even_tone,5.21
+IN,FC,blind_hut_benefit_score,IN644S,Fragrance fresh fruits - Olay berry body lotion: IN644S,even_tone,5.19
+IN,FC,blind_hut_benefit_score,IN643S,Fragrance fresh fruits - bali beach LLF2: IN643S,even_tone,5.27
+IN,FC,blind_hut_benefit_score,IN639S,Fragrance natural freshness - highland M: IN639S,even_tone,5.17
+IN,FC,blind_hut_benefit_score,IN642S,Fragrance opulent florals - vibrant M: IN642S,even_tone,5.07
+IN,FC,blind_hut_benefit_score,IN637S,Fragrance sparkling freshness - uplifting: IN637S,even_tone,5.01
+IN,FC,blind_hut_benefit_score,IN647W,JOHNSONS baby oil: IN647W,even_tone,4.72
+IN,FC,blind_hut_benefit_score,TH248W,JOHNSONS baby powder: TH248W,even_tone,4.93
+IN,FC,blind_hut_benefit_score,CN747W,KIEHLS multi corrective cream: CN747W,even_tone,4.8
+IN,FC,blind_hut_benefit_score,IN638S,Fragrance technical freshness - SY22: IN638S,even_tone,5.09
+IN,FC,blind_hut_benefit_score,CN739W,PONDS upper eye cream sea flower: CN739W,even_tone,4.94
+IN,FC,blind_hut_benefit_score,IN657S,GARNIER vitamin C Cream: IN657S,even_tone,5.13
+IN,FC,blind_hut_benefit_score,CN744W,PROYA cream: CN744W,even_tone,4.97
+IN,FC,blind_hut_benefit_score,IN651W,GARNIER vitamin C Serum: IN651W,even_tone,4.97
+IN,FC,blind_hut_benefit_score,IN656S,GLOW AND LOVELY multivitamin cream: IN656S,even_tone,5.13
+IN,FC,blind_hut_benefit_score,K56W,HADALABO gel: K56W,even_tone,4.79
+IN,FC,blind_hut_benefit_score,IN648S,SAFI Youth Gold Lifting 24K Gold Essence: IN648S,even_tone,5.09
+IN,FC,blind_hut_benefit_score,J13S,SHISEIDO Aqua Label Special Gel Cream Oil In: J13S,even_tone,4.82
+IN,FC,blind_hut_benefit_score,CN737W,SOFINA pink primer: CN737W,even_tone,4.85
+IN,FC,blind_hut_benefit_score,IN666S,LAKME absolute hydra pro tinted moisturizer: IN666S,even_tone,5.12
+IN,FC,blind_hut_benefit_score,IN665S,LAKME mousse foundation: IN665S,even_tone,5.09
+IN,FC,blind_hut_benefit_score,RU02W,LOREAL PARIS 1.5% Pure Hyaluronic Acid Serum: RU02W,even_tone,4.79
+IN,FC,blind_hut_benefit_score,IN658W,PONDS Super Light Serum: IN658W,even_tone,4.55
+IN,FC,blind_hut_benefit_score,IN664S,PONDS cold cream: IN664S,even_tone,5.03
+IN,FC,blind_hut_benefit_score,US239W,SUPERGOOP sunscreen: US239W,even_tone,4.56
+IN,FC,blind_hut_benefit_score,IN660W,PONDS light moisturizer: IN660W,even_tone,5.16
+IN,FC,blind_hut_benefit_score,IN650W,PONDS piccolo serum: IN650W,even_tone,5.04
+IN,FC,blind_hut_benefit_score,IN661W,PONDS super light gel 0.25% menthol: IN661W,even_tone,4.91
+IN,FC,blind_hut_benefit_score,IN662W,PONDS super light gel original: IN662W,even_tone,5.08
+IN,FC,blind_hut_benefit_score,CN738W,TIMIER water rich protection makeup base: CN738W,even_tone,4.99
+IN,FC,blind_hut_benefit_score,CN750W,VASELINE glutahya lotion: CN750W,even_tone,5.05
+IN,FC,blind_hut_benefit_score,IN646W,VASELINE petroleum jelly: IN646W,even_tone,4.73
+IN,FC,blind_hut_benefit_score,CN743S,VASELINE radiant glow lotion: CN743S,even_tone,5.18
+IN,FC,blind_hut_benefit_score,IN654S,WHITE TONE soft and smooth face cream: IN654S,even_tone,5.07
+IN,FC,blind_hut_benefit_score,IN659W,ALBION skin conditioner: IN659W,even_tone,4.65
+IN,FC,blind_hut_benefit_score,IN652S,BOROPLUS antiseptic cream: IN652S,even_tone,4.89
+IN,FC,blind_hut_benefit_score,CN740S,CathKidston Rose Mask: CN740S,even_tone,4.78
+IN,FC,blind_hut_benefit_score,US241W,ELIZABETH ARDEN 8 hour cream: US241W,even_tone,4.16
+IN,FC,blind_hut_benefit_score,IN641S,Fragrance caring florals - VIP list LY: IN641S,even_tone,5.23
+IN,FC,blind_hut_benefit_score,IN649S,Nature republic aloe vera gel: IN649S,even_tone,4.95
+IN,FC,blind_hut_benefit_score,IN655S,OLAY Natural Aura 7 IN ONE Instant Glowing Radiance with UV Protection: IN655S,even_tone,5.07
+IN,FC,blind_hut_benefit_score,TH249W,OLAY retinol 24 night serum: TH249W,even_tone,4.7
+IN,FC,blind_hut_benefit_score,IN653S,PONDS B122: IN653S,even_tone,5.16
+IN,FC,blind_hut_benefit_score,IN663S,PONDS Bright Beauty Serum Cream: IN663S,even_tone,5.19
+IN,FC,blind_hut_benefit_score,IN640S,Fragrance fresh florals - celestial AI: IN640S,fairness_over_time,5.25
+IN,FC,blind_hut_benefit_score,IN644S,Fragrance fresh fruits - Olay berry body lotion: IN644S,fairness_over_time,5.2
+IN,FC,blind_hut_benefit_score,IN643S,Fragrance fresh fruits - bali beach LLF2: IN643S,fairness_over_time,5.32
+IN,FC,blind_hut_benefit_score,IN639S,Fragrance natural freshness - highland M: IN639S,fairness_over_time,5.25
+IN,FC,blind_hut_benefit_score,IN642S,Fragrance opulent florals - vibrant M: IN642S,fairness_over_time,5.13
+IN,FC,blind_hut_benefit_score,IN637S,Fragrance sparkling freshness - uplifting: IN637S,fairness_over_time,5.02
+IN,FC,blind_hut_benefit_score,IN647W,JOHNSONS baby oil: IN647W,fairness_over_time,4.65
+IN,FC,blind_hut_benefit_score,TH248W,JOHNSONS baby powder: TH248W,fairness_over_time,5.05
+IN,FC,blind_hut_benefit_score,CN747W,KIEHLS multi corrective cream: CN747W,fairness_over_time,4.78
+IN,FC,blind_hut_benefit_score,IN638S,Fragrance technical freshness - SY22: IN638S,fairness_over_time,5.11
+IN,FC,blind_hut_benefit_score,CN739W,PONDS upper eye cream sea flower: CN739W,fairness_over_time,4.84
+IN,FC,blind_hut_benefit_score,IN657S,GARNIER vitamin C Cream: IN657S,fairness_over_time,5.15
+IN,FC,blind_hut_benefit_score,CN744W,PROYA cream: CN744W,fairness_over_time,4.94
+IN,FC,blind_hut_benefit_score,IN651W,GARNIER vitamin C Serum: IN651W,fairness_over_time,4.94
+IN,FC,blind_hut_benefit_score,IN656S,GLOW AND LOVELY multivitamin cream: IN656S,fairness_over_time,5.2
+IN,FC,blind_hut_benefit_score,K56W,HADALABO gel: K56W,fairness_over_time,4.76
+IN,FC,blind_hut_benefit_score,IN648S,SAFI Youth Gold Lifting 24K Gold Essence: IN648S,fairness_over_time,5.02
+IN,FC,blind_hut_benefit_score,J13S,SHISEIDO Aqua Label Special Gel Cream Oil In: J13S,fairness_over_time,4.77
+IN,FC,blind_hut_benefit_score,CN737W,SOFINA pink primer: CN737W,fairness_over_time,4.9
+IN,FC,blind_hut_benefit_score,IN666S,LAKME absolute hydra pro tinted moisturizer: IN666S,fairness_over_time,5.22
+IN,FC,blind_hut_benefit_score,IN665S,LAKME mousse foundation: IN665S,fairness_over_time,5.14
+IN,FC,blind_hut_benefit_score,RU02W,LOREAL PARIS 1.5% Pure Hyaluronic Acid Serum: RU02W,fairness_over_time,4.72
+IN,FC,blind_hut_benefit_score,IN658W,PONDS Super Light Serum: IN658W,fairness_over_time,4.62
+IN,FC,blind_hut_benefit_score,IN664S,PONDS cold cream: IN664S,fairness_over_time,5.05
+IN,FC,blind_hut_benefit_score,US239W,SUPERGOOP sunscreen: US239W,fairness_over_time,4.52
+IN,FC,blind_hut_benefit_score,IN660W,PONDS light moisturizer: IN660W,fairness_over_time,5.13
+IN,FC,blind_hut_benefit_score,IN650W,PONDS piccolo serum: IN650W,fairness_over_time,5.03
+IN,FC,blind_hut_benefit_score,IN661W,PONDS super light gel 0.25% menthol: IN661W,fairness_over_time,4.87
+IN,FC,blind_hut_benefit_score,IN662W,PONDS super light gel original: IN662W,fairness_over_time,5.06
+IN,FC,blind_hut_benefit_score,CN738W,TIMIER water rich protection makeup base: CN738W,fairness_over_time,5.03
+IN,FC,blind_hut_benefit_score,CN750W,VASELINE glutahya lotion: CN750W,fairness_over_time,5.01
+IN,FC,blind_hut_benefit_score,IN646W,VASELINE petroleum jelly: IN646W,fairness_over_time,4.66
+IN,FC,blind_hut_benefit_score,CN743S,VASELINE radiant glow lotion: CN743S,fairness_over_time,5.24
+IN,FC,blind_hut_benefit_score,IN654S,WHITE TONE soft and smooth face cream: IN654S,fairness_over_time,5.12
+IN,FC,blind_hut_benefit_score,IN659W,ALBION skin conditioner: IN659W,fairness_over_time,4.63
+IN,FC,blind_hut_benefit_score,IN652S,BOROPLUS antiseptic cream: IN652S,fairness_over_time,4.86
+IN,FC,blind_hut_benefit_score,CN740S,CathKidston Rose Mask: CN740S,fairness_over_time,4.75
+IN,FC,blind_hut_benefit_score,US241W,ELIZABETH ARDEN 8 hour cream: US241W,fairness_over_time,4.1
+IN,FC,blind_hut_benefit_score,IN641S,Fragrance caring florals - VIP list LY: IN641S,fairness_over_time,5.19
+IN,FC,blind_hut_benefit_score,IN649S,Nature republic aloe vera gel: IN649S,fairness_over_time,5.07
+IN,FC,blind_hut_benefit_score,IN655S,OLAY Natural Aura 7 IN ONE Instant Glowing Radiance with UV Protection: IN655S,fairness_over_time,5.12
+IN,FC,blind_hut_benefit_score,TH249W,OLAY retinol 24 night serum: TH249W,fairness_over_time,4.64
+IN,FC,blind_hut_benefit_score,IN653S,PONDS B122: IN653S,fairness_over_time,5.2
+IN,FC,blind_hut_benefit_score,IN663S,PONDS Bright Beauty Serum Cream: IN663S,fairness_over_time,5.23
+IN,FC,blind_hut_benefit_score,IN640S,Fragrance fresh florals - celestial AI: IN640S,instant_brightness,5.28
+IN,FC,blind_hut_benefit_score,IN644S,Fragrance fresh fruits - Olay berry body lotion: IN644S,instant_brightness,5.15
+IN,FC,blind_hut_benefit_score,IN643S,Fragrance fresh fruits - bali beach LLF2: IN643S,instant_brightness,5.31
+IN,FC,blind_hut_benefit_score,IN639S,Fragrance natural freshness - highland M: IN639S,instant_brightness,5.23
+IN,FC,blind_hut_benefit_score,IN642S,Fragrance opulent florals - vibrant M: IN642S,instant_brightness,5.08
+IN,FC,blind_hut_benefit_score,IN637S,Fragrance sparkling freshness - uplifting: IN637S,instant_brightness,5.04
+IN,FC,blind_hut_benefit_score,IN647W,JOHNSONS baby oil: IN647W,instant_brightness,4.72
+IN,FC,blind_hut_benefit_score,TH248W,JOHNSONS baby powder: TH248W,instant_brightness,5.06
+IN,FC,blind_hut_benefit_score,CN747W,KIEHLS multi corrective cream: CN747W,instant_brightness,4.79
+IN,FC,blind_hut_benefit_score,IN638S,Fragrance technical freshness - SY22: IN638S,instant_brightness,5.09
+IN,FC,blind_hut_benefit_score,CN739W,PONDS upper eye cream sea flower: CN739W,instant_brightness,4.83
+IN,FC,blind_hut_benefit_score,IN657S,GARNIER vitamin C Cream: IN657S,instant_brightness,5.16
+IN,FC,blind_hut_benefit_score,CN744W,PROYA cream: CN744W,instant_brightness,4.94
+IN,FC,blind_hut_benefit_score,IN651W,GARNIER vitamin C Serum: IN651W,instant_brightness,4.92
+IN,FC,blind_hut_benefit_score,IN656S,GLOW AND LOVELY multivitamin cream: IN656S,instant_brightness,5.2
+IN,FC,blind_hut_benefit_score,K56W,HADALABO gel: K56W,instant_brightness,4.74
+IN,FC,blind_hut_benefit_score,IN648S,SAFI Youth Gold Lifting 24K Gold Essence: IN648S,instant_brightness,5.1
+IN,FC,blind_hut_benefit_score,J13S,SHISEIDO Aqua Label Special Gel Cream Oil In: J13S,instant_brightness,4.81
+IN,FC,blind_hut_benefit_score,CN737W,SOFINA pink primer: CN737W,instant_brightness,4.92
+IN,FC,blind_hut_benefit_score,IN666S,LAKME absolute hydra pro tinted moisturizer: IN666S,instant_brightness,5.22
+IN,FC,blind_hut_benefit_score,IN665S,LAKME mousse foundation: IN665S,instant_brightness,5.12
+IN,FC,blind_hut_benefit_score,RU02W,LOREAL PARIS 1.5% Pure Hyaluronic Acid Serum: RU02W,instant_brightness,4.78
+IN,FC,blind_hut_benefit_score,IN658W,PONDS Super Light Serum: IN658W,instant_brightness,4.58
+IN,FC,blind_hut_benefit_score,IN664S,PONDS cold cream: IN664S,instant_brightness,5.06
+IN,FC,blind_hut_benefit_score,US239W,SUPERGOOP sunscreen: US239W,instant_brightness,4.52
+IN,FC,blind_hut_benefit_score,IN660W,PONDS light moisturizer: IN660W,instant_brightness,5.17
+IN,FC,blind_hut_benefit_score,IN650W,PONDS piccolo serum: IN650W,instant_brightness,5.05
+IN,FC,blind_hut_benefit_score,IN661W,PONDS super light gel 0.25% menthol: IN661W,instant_brightness,4.88
+IN,FC,blind_hut_benefit_score,IN662W,PONDS super light gel original: IN662W,instant_brightness,5.1
+IN,FC,blind_hut_benefit_score,CN738W,TIMIER water rich protection makeup base: CN738W,instant_brightness,5.07
+IN,FC,blind_hut_benefit_score,CN750W,VASELINE glutahya lotion: CN750W,instant_brightness,5.04
+IN,FC,blind_hut_benefit_score,IN646W,VASELINE petroleum jelly: IN646W,instant_brightness,4.7
+IN,FC,blind_hut_benefit_score,CN743S,VASELINE radiant glow lotion: CN743S,instant_brightness,5.18
+IN,FC,blind_hut_benefit_score,IN654S,WHITE TONE soft and smooth face cream: IN654S,instant_brightness,5.15
+IN,FC,blind_hut_benefit_score,IN659W,ALBION skin conditioner: IN659W,instant_brightness,4.62
+IN,FC,blind_hut_benefit_score,IN652S,BOROPLUS antiseptic cream: IN652S,instant_brightness,4.86
+IN,FC,blind_hut_benefit_score,CN740S,CathKidston Rose Mask: CN740S,instant_brightness,4.8
+IN,FC,blind_hut_benefit_score,US241W,ELIZABETH ARDEN 8 hour cream: US241W,instant_brightness,4.12
+IN,FC,blind_hut_benefit_score,IN641S,Fragrance caring florals - VIP list LY: IN641S,instant_brightness,5.22
+IN,FC,blind_hut_benefit_score,IN649S,Nature republic aloe vera gel: IN649S,instant_brightness,4.92
+IN,FC,blind_hut_benefit_score,IN655S,OLAY Natural Aura 7 IN ONE Instant Glowing Radiance with UV Protection: IN655S,instant_brightness,5.14
+IN,FC,blind_hut_benefit_score,TH249W,OLAY retinol 24 night serum: TH249W,instant_brightness,4.7
+IN,FC,blind_hut_benefit_score,IN653S,PONDS B122: IN653S,instant_brightness,5.18
+IN,FC,blind_hut_benefit_score,IN663S,PONDS Bright Beauty Serum Cream: IN663S,instant_brightness,5.3
+IN,FC,blind_hut_benefit_score,IN640S,Fragrance fresh florals - celestial AI: IN640S,instant_fairness,5.29
+IN,FC,blind_hut_benefit_score,IN644S,Fragrance fresh fruits - Olay berry body lotion: IN644S,instant_fairness,5.14
+IN,FC,blind_hut_benefit_score,IN643S,Fragrance fresh fruits - bali beach LLF2: IN643S,instant_fairness,5.26
+IN,FC,blind_hut_benefit_score,IN639S,Fragrance natural freshness - highland M: IN639S,instant_fairness,5.19
+IN,FC,blind_hut_benefit_score,IN642S,Fragrance opulent florals - vibrant M: IN642S,instant_fairness,5.17
+IN,FC,blind_hut_benefit_score,IN637S,Fragrance sparkling freshness - uplifting: IN637S,instant_fairness,5.06
+IN,FC,blind_hut_benefit_score,IN647W,JOHNSONS baby oil: IN647W,instant_fairness,4.63
+IN,FC,blind_hut_benefit_score,TH248W,JOHNSONS baby powder: TH248W,instant_fairness,5.07
+IN,FC,blind_hut_benefit_score,CN747W,KIEHLS multi corrective cream: CN747W,instant_fairness,4.8
+IN,FC,blind_hut_benefit_score,IN638S,Fragrance technical freshness - SY22: IN638S,instant_fairness,5.09
+IN,FC,blind_hut_benefit_score,CN739W,PONDS upper eye cream sea flower: CN739W,instant_fairness,4.83
+IN,FC,blind_hut_benefit_score,IN657S,GARNIER vitamin C Cream: IN657S,instant_fairness,5.16
+IN,FC,blind_hut_benefit_score,CN744W,PROYA cream: CN744W,instant_fairness,4.83
+IN,FC,blind_hut_benefit_score,IN651W,GARNIER vitamin C Serum: IN651W,instant_fairness,4.88
+IN,FC,blind_hut_benefit_score,IN656S,GLOW AND LOVELY multivitamin cream: IN656S,instant_fairness,5.21
+IN,FC,blind_hut_benefit_score,K56W,HADALABO gel: K56W,instant_fairness,4.71
+IN,FC,blind_hut_benefit_score,IN648S,SAFI Youth Gold Lifting 24K Gold Essence: IN648S,instant_fairness,5.06
+IN,FC,blind_hut_benefit_score,J13S,SHISEIDO Aqua Label Special Gel Cream Oil In: J13S,instant_fairness,4.68
+IN,FC,blind_hut_benefit_score,CN737W,SOFINA pink primer: CN737W,instant_fairness,4.91
+IN,FC,blind_hut_benefit_score,IN666S,LAKME absolute hydra pro tinted moisturizer: IN666S,instant_fairness,5.2
+IN,FC,blind_hut_benefit_score,IN665S,LAKME mousse foundation: IN665S,instant_fairness,5.18
+IN,FC,blind_hut_benefit_score,RU02W,LOREAL PARIS 1.5% Pure Hyaluronic Acid Serum: RU02W,instant_fairness,4.74
+IN,FC,blind_hut_benefit_score,IN658W,PONDS Super Light Serum: IN658W,instant_fairness,4.6
+IN,FC,blind_hut_benefit_score,IN664S,PONDS cold cream: IN664S,instant_fairness,5.0
+IN,FC,blind_hut_benefit_score,US239W,SUPERGOOP sunscreen: US239W,instant_fairness,4.5
+IN,FC,blind_hut_benefit_score,IN660W,PONDS light moisturizer: IN660W,instant_fairness,5.15
+IN,FC,blind_hut_benefit_score,IN650W,PONDS piccolo serum: IN650W,instant_fairness,4.99
+IN,FC,blind_hut_benefit_score,IN661W,PONDS super light gel 0.25% menthol: IN661W,instant_fairness,4.87
+IN,FC,blind_hut_benefit_score,IN662W,PONDS super light gel original: IN662W,instant_fairness,5.1
+IN,FC,blind_hut_benefit_score,CN738W,TIMIER water rich protection makeup base: CN738W,instant_fairness,5.03
+IN,FC,blind_hut_benefit_score,CN750W,VASELINE glutahya lotion: CN750W,instant_fairness,4.99
+IN,FC,blind_hut_benefit_score,IN646W,VASELINE petroleum jelly: IN646W,instant_fairness,4.63
+IN,FC,blind_hut_benefit_score,CN743S,VASELINE radiant glow lotion: CN743S,instant_fairness,5.24
+IN,FC,blind_hut_benefit_score,IN654S,WHITE TONE soft and smooth face cream: IN654S,instant_fairness,5.17
+IN,FC,blind_hut_benefit_score,IN659W,ALBION skin conditioner: IN659W,instant_fairness,4.58
+IN,FC,blind_hut_benefit_score,IN652S,BOROPLUS antiseptic cream: IN652S,instant_fairness,4.86
+IN,FC,blind_hut_benefit_score,CN740S,CathKidston Rose Mask: CN740S,instant_fairness,4.81
+IN,FC,blind_hut_benefit_score,US241W,ELIZABETH ARDEN 8 hour cream: US241W,instant_fairness,4.07
+IN,FC,blind_hut_benefit_score,IN641S,Fragrance caring florals - VIP list LY: IN641S,instant_fairness,5.25
+IN,FC,blind_hut_benefit_score,IN649S,Nature republic aloe vera gel: IN649S,instant_fairness,4.87
+IN,FC,blind_hut_benefit_score,IN655S,OLAY Natural Aura 7 IN ONE Instant Glowing Radiance with UV Protection: IN655S,instant_fairness,5.11
+IN,FC,blind_hut_benefit_score,TH249W,OLAY retinol 24 night serum: TH249W,instant_fairness,4.69
+IN,FC,blind_hut_benefit_score,IN653S,PONDS B122: IN653S,instant_fairness,5.18
+IN,FC,blind_hut_benefit_score,IN663S,PONDS Bright Beauty Serum Cream: IN663S,instant_fairness,5.25
+IN,FC,blind_hut_benefit_score,IN640S,Fragrance fresh florals - celestial AI: IN640S,instant_glow,5.25
+IN,FC,blind_hut_benefit_score,IN644S,Fragrance fresh fruits - Olay berry body lotion: IN644S,instant_glow,5.23
+IN,FC,blind_hut_benefit_score,IN643S,Fragrance fresh fruits - bali beach LLF2: IN643S,instant_glow,5.31
+IN,FC,blind_hut_benefit_score,IN639S,Fragrance natural freshness - highland M: IN639S,instant_glow,5.26
+IN,FC,blind_hut_benefit_score,IN642S,Fragrance opulent florals - vibrant M: IN642S,instant_glow,5.14
+IN,FC,blind_hut_benefit_score,IN637S,Fragrance sparkling freshness - uplifting: IN637S,instant_glow,5.04
+IN,FC,blind_hut_benefit_score,IN647W,JOHNSONS baby oil: IN647W,instant_glow,4.7
+IN,FC,blind_hut_benefit_score,TH248W,JOHNSONS baby powder: TH248W,instant_glow,5.0
+IN,FC,blind_hut_benefit_score,CN747W,KIEHLS multi corrective cream: CN747W,instant_glow,4.82
+IN,FC,blind_hut_benefit_score,IN638S,Fragrance technical freshness - SY22: IN638S,instant_glow,5.09
+IN,FC,blind_hut_benefit_score,CN739W,PONDS upper eye cream sea flower: CN739W,instant_glow,4.91
+IN,FC,blind_hut_benefit_score,IN657S,GARNIER vitamin C Cream: IN657S,instant_glow,5.16
+IN,FC,blind_hut_benefit_score,CN744W,PROYA cream: CN744W,instant_glow,4.94
+IN,FC,blind_hut_benefit_score,IN651W,GARNIER vitamin C Serum: IN651W,instant_glow,4.95
+IN,FC,blind_hut_benefit_score,IN656S,GLOW AND LOVELY multivitamin cream: IN656S,instant_glow,5.23
+IN,FC,blind_hut_benefit_score,K56W,HADALABO gel: K56W,instant_glow,4.77
+IN,FC,blind_hut_benefit_score,IN648S,SAFI Youth Gold Lifting 24K Gold Essence: IN648S,instant_glow,5.08
+IN,FC,blind_hut_benefit_score,J13S,SHISEIDO Aqua Label Special Gel Cream Oil In: J13S,instant_glow,4.77
+IN,FC,blind_hut_benefit_score,CN737W,SOFINA pink primer: CN737W,instant_glow,4.95
+IN,FC,blind_hut_benefit_score,IN666S,LAKME absolute hydra pro tinted moisturizer: IN666S,instant_glow,5.31
+IN,FC,blind_hut_benefit_score,IN665S,LAKME mousse foundation: IN665S,instant_glow,5.12
+IN,FC,blind_hut_benefit_score,RU02W,LOREAL PARIS 1.5% Pure Hyaluronic Acid Serum: RU02W,instant_glow,4.73
+IN,FC,blind_hut_benefit_score,IN658W,PONDS Super Light Serum: IN658W,instant_glow,4.58
+IN,FC,blind_hut_benefit_score,IN664S,PONDS cold cream: IN664S,instant_glow,5.06
+IN,FC,blind_hut_benefit_score,US239W,SUPERGOOP sunscreen: US239W,instant_glow,4.57
+IN,FC,blind_hut_benefit_score,IN660W,PONDS light moisturizer: IN660W,instant_glow,5.2
+IN,FC,blind_hut_benefit_score,IN650W,PONDS piccolo serum: IN650W,instant_glow,5.11
+IN,FC,blind_hut_benefit_score,IN661W,PONDS super light gel 0.25% menthol: IN661W,instant_glow,4.94
+IN,FC,blind_hut_benefit_score,IN662W,PONDS super light gel original: IN662W,instant_glow,5.08
+IN,FC,blind_hut_benefit_score,CN738W,TIMIER water rich protection makeup base: CN738W,instant_glow,5.11
+IN,FC,blind_hut_benefit_score,CN750W,VASELINE glutahya lotion: CN750W,instant_glow,5.07
+IN,FC,blind_hut_benefit_score,IN646W,VASELINE petroleum jelly: IN646W,instant_glow,4.71
+IN,FC,blind_hut_benefit_score,CN743S,VASELINE radiant glow lotion: CN743S,instant_glow,5.21
+IN,FC,blind_hut_benefit_score,IN654S,WHITE TONE soft and smooth face cream: IN654S,instant_glow,5.14
+IN,FC,blind_hut_benefit_score,IN659W,ALBION skin conditioner: IN659W,instant_glow,4.63
+IN,FC,blind_hut_benefit_score,IN652S,BOROPLUS antiseptic cream: IN652S,instant_glow,4.89
+IN,FC,blind_hut_benefit_score,CN740S,CathKidston Rose Mask: CN740S,instant_glow,4.72
+IN,FC,blind_hut_benefit_score,US241W,ELIZABETH ARDEN 8 hour cream: US241W,instant_glow,4.14
+IN,FC,blind_hut_benefit_score,IN641S,Fragrance caring florals - VIP list LY: IN641S,instant_glow,5.25
+IN,FC,blind_hut_benefit_score,IN649S,Nature republic aloe vera gel: IN649S,instant_glow,5.02
+IN,FC,blind_hut_benefit_score,IN655S,OLAY Natural Aura 7 IN ONE Instant Glowing Radiance with UV Protection: IN655S,instant_glow,5.08
+IN,FC,blind_hut_benefit_score,TH249W,OLAY retinol 24 night serum: TH249W,instant_glow,4.66
+IN,FC,blind_hut_benefit_score,IN653S,PONDS B122: IN653S,instant_glow,5.2
+IN,FC,blind_hut_benefit_score,IN663S,PONDS Bright Beauty Serum Cream: IN663S,instant_glow,5.21
+IN,FC,blind_hut_benefit_score,IN640S,Fragrance fresh florals - celestial AI: IN640S,makes_my_skin_glow,5.3
+IN,FC,blind_hut_benefit_score,IN644S,Fragrance fresh fruits - Olay berry body lotion: IN644S,makes_my_skin_glow,5.23
+IN,FC,blind_hut_benefit_score,IN643S,Fragrance fresh fruits - bali beach LLF2: IN643S,makes_my_skin_glow,5.36
+IN,FC,blind_hut_benefit_score,IN639S,Fragrance natural freshness - highland M: IN639S,makes_my_skin_glow,5.27
+IN,FC,blind_hut_benefit_score,IN642S,Fragrance opulent florals - vibrant M: IN642S,makes_my_skin_glow,5.16
+IN,FC,blind_hut_benefit_score,IN637S,Fragrance sparkling freshness - uplifting: IN637S,makes_my_skin_glow,5.01
+IN,FC,blind_hut_benefit_score,IN647W,JOHNSONS baby oil: IN647W,makes_my_skin_glow,4.74
+IN,FC,blind_hut_benefit_score,TH248W,JOHNSONS baby powder: TH248W,makes_my_skin_glow,5.03
+IN,FC,blind_hut_benefit_score,CN747W,KIEHLS multi corrective cream: CN747W,makes_my_skin_glow,4.82
+IN,FC,blind_hut_benefit_score,IN638S,Fragrance technical freshness - SY22: IN638S,makes_my_skin_glow,5.11
+IN,FC,blind_hut_benefit_score,CN739W,PONDS upper eye cream sea flower: CN739W,makes_my_skin_glow,4.93
+IN,FC,blind_hut_benefit_score,IN657S,GARNIER vitamin C Cream: IN657S,makes_my_skin_glow,5.2
+IN,FC,blind_hut_benefit_score,CN744W,PROYA cream: CN744W,makes_my_skin_glow,4.96
+IN,FC,blind_hut_benefit_score,IN651W,GARNIER vitamin C Serum: IN651W,makes_my_skin_glow,4.96
+IN,FC,blind_hut_benefit_score,IN656S,GLOW AND LOVELY multivitamin cream: IN656S,makes_my_skin_glow,5.22
+IN,FC,blind_hut_benefit_score,K56W,HADALABO gel: K56W,makes_my_skin_glow,4.8
+IN,FC,blind_hut_benefit_score,IN648S,SAFI Youth Gold Lifting 24K Gold Essence: IN648S,makes_my_skin_glow,5.03
+IN,FC,blind_hut_benefit_score,J13S,SHISEIDO Aqua Label Special Gel Cream Oil In: J13S,makes_my_skin_glow,4.86
+IN,FC,blind_hut_benefit_score,CN737W,SOFINA pink primer: CN737W,makes_my_skin_glow,4.91
+IN,FC,blind_hut_benefit_score,IN666S,LAKME absolute hydra pro tinted moisturizer: IN666S,makes_my_skin_glow,5.22
+IN,FC,blind_hut_benefit_score,IN665S,LAKME mousse foundation: IN665S,makes_my_skin_glow,5.08
+IN,FC,blind_hut_benefit_score,RU02W,LOREAL PARIS 1.5% Pure Hyaluronic Acid Serum: RU02W,makes_my_skin_glow,4.84
+IN,FC,blind_hut_benefit_score,IN658W,PONDS Super Light Serum: IN658W,makes_my_skin_glow,4.63
+IN,FC,blind_hut_benefit_score,IN664S,PONDS cold cream: IN664S,makes_my_skin_glow,5.07
+IN,FC,blind_hut_benefit_score,US239W,SUPERGOOP sunscreen: US239W,makes_my_skin_glow,4.56
+IN,FC,blind_hut_benefit_score,IN660W,PONDS light moisturizer: IN660W,makes_my_skin_glow,5.17
+IN,FC,blind_hut_benefit_score,IN650W,PONDS piccolo serum: IN650W,makes_my_skin_glow,5.07
+IN,FC,blind_hut_benefit_score,IN661W,PONDS super light gel 0.25% menthol: IN661W,makes_my_skin_glow,4.9
+IN,FC,blind_hut_benefit_score,IN662W,PONDS super light gel original: IN662W,makes_my_skin_glow,5.12
+IN,FC,blind_hut_benefit_score,CN738W,TIMIER water rich protection makeup base: CN738W,makes_my_skin_glow,5.06
+IN,FC,blind_hut_benefit_score,CN750W,VASELINE glutahya lotion: CN750W,makes_my_skin_glow,5.12
+IN,FC,blind_hut_benefit_score,IN646W,VASELINE petroleum jelly: IN646W,makes_my_skin_glow,4.79
+IN,FC,blind_hut_benefit_score,CN743S,VASELINE radiant glow lotion: CN743S,makes_my_skin_glow,5.2
+IN,FC,blind_hut_benefit_score,IN654S,WHITE TONE soft and smooth face cream: IN654S,makes_my_skin_glow,5.14
+IN,FC,blind_hut_benefit_score,IN659W,ALBION skin conditioner: IN659W,makes_my_skin_glow,4.65
+IN,FC,blind_hut_benefit_score,IN652S,BOROPLUS antiseptic cream: IN652S,makes_my_skin_glow,4.91
+IN,FC,blind_hut_benefit_score,CN740S,CathKidston Rose Mask: CN740S,makes_my_skin_glow,4.84
+IN,FC,blind_hut_benefit_score,US241W,ELIZABETH ARDEN 8 hour cream: US241W,makes_my_skin_glow,4.16
+IN,FC,blind_hut_benefit_score,IN641S,Fragrance caring florals - VIP list LY: IN641S,makes_my_skin_glow,5.26
+IN,FC,blind_hut_benefit_score,IN649S,Nature republic aloe vera gel: IN649S,makes_my_skin_glow,5.02
+IN,FC,blind_hut_benefit_score,IN655S,OLAY Natural Aura 7 IN ONE Instant Glowing Radiance with UV Protection: IN655S,makes_my_skin_glow,5.14
+IN,FC,blind_hut_benefit_score,TH249W,OLAY retinol 24 night serum: TH249W,makes_my_skin_glow,4.73
+IN,FC,blind_hut_benefit_score,IN653S,PONDS B122: IN653S,makes_my_skin_glow,5.18
+IN,FC,blind_hut_benefit_score,IN663S,PONDS Bright Beauty Serum Cream: IN663S,makes_my_skin_glow,5.31
+IN,FC,blind_hut_benefit_score,IN640S,Fragrance fresh florals - celestial AI: IN640S,makes_skin_firmer,5.17
+IN,FC,blind_hut_benefit_score,IN644S,Fragrance fresh fruits - Olay berry body lotion: IN644S,makes_skin_firmer,5.15
+IN,FC,blind_hut_benefit_score,IN643S,Fragrance fresh fruits - bali beach LLF2: IN643S,makes_skin_firmer,5.19
+IN,FC,blind_hut_benefit_score,IN639S,Fragrance natural freshness - highland M: IN639S,makes_skin_firmer,5.09
+IN,FC,blind_hut_benefit_score,IN642S,Fragrance opulent florals - vibrant M: IN642S,makes_skin_firmer,5.05
+IN,FC,blind_hut_benefit_score,IN637S,Fragrance sparkling freshness - uplifting: IN637S,makes_skin_firmer,4.97
+IN,FC,blind_hut_benefit_score,IN647W,JOHNSONS baby oil: IN647W,makes_skin_firmer,4.68
+IN,FC,blind_hut_benefit_score,TH248W,JOHNSONS baby powder: TH248W,makes_skin_firmer,4.89
+IN,FC,blind_hut_benefit_score,CN747W,KIEHLS multi corrective cream: CN747W,makes_skin_firmer,4.72
+IN,FC,blind_hut_benefit_score,IN638S,Fragrance technical freshness - SY22: IN638S,makes_skin_firmer,4.95
+IN,FC,blind_hut_benefit_score,CN739W,PONDS upper eye cream sea flower: CN739W,makes_skin_firmer,4.85
+IN,FC,blind_hut_benefit_score,IN657S,GARNIER vitamin C Cream: IN657S,makes_skin_firmer,5.09
+IN,FC,blind_hut_benefit_score,CN744W,PROYA cream: CN744W,makes_skin_firmer,4.9
+IN,FC,blind_hut_benefit_score,IN651W,GARNIER vitamin C Serum: IN651W,makes_skin_firmer,4.92
+IN,FC,blind_hut_benefit_score,IN656S,GLOW AND LOVELY multivitamin cream: IN656S,makes_skin_firmer,5.1
+IN,FC,blind_hut_benefit_score,K56W,HADALABO gel: K56W,makes_skin_firmer,4.76
+IN,FC,blind_hut_benefit_score,IN648S,SAFI Youth Gold Lifting 24K Gold Essence: IN648S,makes_skin_firmer,4.97
+IN,FC,blind_hut_benefit_score,J13S,SHISEIDO Aqua Label Special Gel Cream Oil In: J13S,makes_skin_firmer,4.71
+IN,FC,blind_hut_benefit_score,CN737W,SOFINA pink primer: CN737W,makes_skin_firmer,4.79
+IN,FC,blind_hut_benefit_score,IN666S,LAKME absolute hydra pro tinted moisturizer: IN666S,makes_skin_firmer,5.05
+IN,FC,blind_hut_benefit_score,IN665S,LAKME mousse foundation: IN665S,makes_skin_firmer,5.01
+IN,FC,blind_hut_benefit_score,RU02W,LOREAL PARIS 1.5% Pure Hyaluronic Acid Serum: RU02W,makes_skin_firmer,4.76
+IN,FC,blind_hut_benefit_score,IN658W,PONDS Super Light Serum: IN658W,makes_skin_firmer,4.42
+IN,FC,blind_hut_benefit_score,IN664S,PONDS cold cream: IN664S,makes_skin_firmer,4.97
+IN,FC,blind_hut_benefit_score,US239W,SUPERGOOP sunscreen: US239W,makes_skin_firmer,4.55
+IN,FC,blind_hut_benefit_score,IN660W,PONDS light moisturizer: IN660W,makes_skin_firmer,5.09
+IN,FC,blind_hut_benefit_score,IN650W,PONDS piccolo serum: IN650W,makes_skin_firmer,4.98
+IN,FC,blind_hut_benefit_score,IN661W,PONDS super light gel 0.25% menthol: IN661W,makes_skin_firmer,4.84
+IN,FC,blind_hut_benefit_score,IN662W,PONDS super light gel original: IN662W,makes_skin_firmer,5.06
+IN,FC,blind_hut_benefit_score,CN738W,TIMIER water rich protection makeup base: CN738W,makes_skin_firmer,4.92
+IN,FC,blind_hut_benefit_score,CN750W,VASELINE glutahya lotion: CN750W,makes_skin_firmer,4.99
+IN,FC,blind_hut_benefit_score,IN646W,VASELINE petroleum jelly: IN646W,makes_skin_firmer,4.71
+IN,FC,blind_hut_benefit_score,CN743S,VASELINE radiant glow lotion: CN743S,makes_skin_firmer,5.12
+IN,FC,blind_hut_benefit_score,IN654S,WHITE TONE soft and smooth face cream: IN654S,makes_skin_firmer,5.0
+IN,FC,blind_hut_benefit_score,IN659W,ALBION skin conditioner: IN659W,makes_skin_firmer,4.64
+IN,FC,blind_hut_benefit_score,IN652S,BOROPLUS antiseptic cream: IN652S,makes_skin_firmer,4.89
+IN,FC,blind_hut_benefit_score,CN740S,CathKidston Rose Mask: CN740S,makes_skin_firmer,4.89
+IN,FC,blind_hut_benefit_score,US241W,ELIZABETH ARDEN 8 hour cream: US241W,makes_skin_firmer,4.19
+IN,FC,blind_hut_benefit_score,IN641S,Fragrance caring florals - VIP list LY: IN641S,makes_skin_firmer,5.15
+IN,FC,blind_hut_benefit_score,IN649S,Nature republic aloe vera gel: IN649S,makes_skin_firmer,5.03
+IN,FC,blind_hut_benefit_score,IN655S,OLAY Natural Aura 7 IN ONE Instant Glowing Radiance with UV Protection: IN655S,makes_skin_firmer,5.06
+IN,FC,blind_hut_benefit_score,TH249W,OLAY retinol 24 night serum: TH249W,makes_skin_firmer,4.62
+IN,FC,blind_hut_benefit_score,IN653S,PONDS B122: IN653S,makes_skin_firmer,5.11
+IN,FC,blind_hut_benefit_score,IN663S,PONDS Bright Beauty Serum Cream: IN663S,makes_skin_firmer,5.08
+IN,FC,blind_hut_benefit_score,IN640S,Fragrance fresh florals - celestial AI: IN640S,mild_and_gentle_on_skin,5.35
+IN,FC,blind_hut_benefit_score,IN644S,Fragrance fresh fruits - Olay berry body lotion: IN644S,mild_and_gentle_on_skin,5.31
+IN,FC,blind_hut_benefit_score,IN643S,Fragrance fresh fruits - bali beach LLF2: IN643S,mild_and_gentle_on_skin,5.36
+IN,FC,blind_hut_benefit_score,IN639S,Fragrance natural freshness - highland M: IN639S,mild_and_gentle_on_skin,5.3
+IN,FC,blind_hut_benefit_score,IN642S,Fragrance opulent florals - vibrant M: IN642S,mild_and_gentle_on_skin,5.23
+IN,FC,blind_hut_benefit_score,IN637S,Fragrance sparkling freshness - uplifting: IN637S,mild_and_gentle_on_skin,5.15
+IN,FC,blind_hut_benefit_score,IN647W,JOHNSONS baby oil: IN647W,mild_and_gentle_on_skin,4.96
+IN,FC,blind_hut_benefit_score,TH248W,JOHNSONS baby powder: TH248W,mild_and_gentle_on_skin,5.12
+IN,FC,blind_hut_benefit_score,CN747W,KIEHLS multi corrective cream: CN747W,mild_and_gentle_on_skin,4.96
+IN,FC,blind_hut_benefit_score,IN638S,Fragrance technical freshness - SY22: IN638S,mild_and_gentle_on_skin,5.13
+IN,FC,blind_hut_benefit_score,CN739W,PONDS upper eye cream sea flower: CN739W,mild_and_gentle_on_skin,5.07
+IN,FC,blind_hut_benefit_score,IN657S,GARNIER vitamin C Cream: IN657S,mild_and_gentle_on_skin,5.22
+IN,FC,blind_hut_benefit_score,CN744W,PROYA cream: CN744W,mild_and_gentle_on_skin,5.2
+IN,FC,blind_hut_benefit_score,IN651W,GARNIER vitamin C Serum: IN651W,mild_and_gentle_on_skin,5.12
+IN,FC,blind_hut_benefit_score,IN656S,GLOW AND LOVELY multivitamin cream: IN656S,mild_and_gentle_on_skin,5.25
+IN,FC,blind_hut_benefit_score,K56W,HADALABO gel: K56W,mild_and_gentle_on_skin,4.93
+IN,FC,blind_hut_benefit_score,IN648S,SAFI Youth Gold Lifting 24K Gold Essence: IN648S,mild_and_gentle_on_skin,5.18
+IN,FC,blind_hut_benefit_score,J13S,SHISEIDO Aqua Label Special Gel Cream Oil In: J13S,mild_and_gentle_on_skin,4.91
+IN,FC,blind_hut_benefit_score,CN737W,SOFINA pink primer: CN737W,mild_and_gentle_on_skin,4.92
+IN,FC,blind_hut_benefit_score,IN666S,LAKME absolute hydra pro tinted moisturizer: IN666S,mild_and_gentle_on_skin,5.3
+IN,FC,blind_hut_benefit_score,IN665S,LAKME mousse foundation: IN665S,mild_and_gentle_on_skin,5.13
+IN,FC,blind_hut_benefit_score,RU02W,LOREAL PARIS 1.5% Pure Hyaluronic Acid Serum: RU02W,mild_and_gentle_on_skin,4.9
+IN,FC,blind_hut_benefit_score,IN658W,PONDS Super Light Serum: IN658W,mild_and_gentle_on_skin,4.65
+IN,FC,blind_hut_benefit_score,IN664S,PONDS cold cream: IN664S,mild_and_gentle_on_skin,5.18
+IN,FC,blind_hut_benefit_score,US239W,SUPERGOOP sunscreen: US239W,mild_and_gentle_on_skin,4.76
+IN,FC,blind_hut_benefit_score,IN660W,PONDS light moisturizer: IN660W,mild_and_gentle_on_skin,5.31
+IN,FC,blind_hut_benefit_score,IN650W,PONDS piccolo serum: IN650W,mild_and_gentle_on_skin,5.2
+IN,FC,blind_hut_benefit_score,IN661W,PONDS super light gel 0.25% menthol: IN661W,mild_and_gentle_on_skin,5.06
+IN,FC,blind_hut_benefit_score,IN662W,PONDS super light gel original: IN662W,mild_and_gentle_on_skin,5.27
+IN,FC,blind_hut_benefit_score,CN738W,TIMIER water rich protection makeup base: CN738W,mild_and_gentle_on_skin,5.12
+IN,FC,blind_hut_benefit_score,CN750W,VASELINE glutahya lotion: CN750W,mild_and_gentle_on_skin,5.2
+IN,FC,blind_hut_benefit_score,IN646W,VASELINE petroleum jelly: IN646W,mild_and_gentle_on_skin,4.93
+IN,FC,blind_hut_benefit_score,CN743S,VASELINE radiant glow lotion: CN743S,mild_and_gentle_on_skin,5.16
+IN,FC,blind_hut_benefit_score,IN654S,WHITE TONE soft and smooth face cream: IN654S,mild_and_gentle_on_skin,5.26
+IN,FC,blind_hut_benefit_score,IN659W,ALBION skin conditioner: IN659W,mild_and_gentle_on_skin,4.78
+IN,FC,blind_hut_benefit_score,IN652S,BOROPLUS antiseptic cream: IN652S,mild_and_gentle_on_skin,5.0
+IN,FC,blind_hut_benefit_score,CN740S,CathKidston Rose Mask: CN740S,mild_and_gentle_on_skin,5.04
+IN,FC,blind_hut_benefit_score,US241W,ELIZABETH ARDEN 8 hour cream: US241W,mild_and_gentle_on_skin,4.24
+IN,FC,blind_hut_benefit_score,IN641S,Fragrance caring florals - VIP list LY: IN641S,mild_and_gentle_on_skin,5.29
+IN,FC,blind_hut_benefit_score,IN649S,Nature republic aloe vera gel: IN649S,mild_and_gentle_on_skin,5.28
+IN,FC,blind_hut_benefit_score,IN655S,OLAY Natural Aura 7 IN ONE Instant Glowing Radiance with UV Protection: IN655S,mild_and_gentle_on_skin,5.14
+IN,FC,blind_hut_benefit_score,TH249W,OLAY retinol 24 night serum: TH249W,mild_and_gentle_on_skin,4.84
+IN,FC,blind_hut_benefit_score,IN653S,PONDS B122: IN653S,mild_and_gentle_on_skin,5.24
+IN,FC,blind_hut_benefit_score,IN663S,PONDS Bright Beauty Serum Cream: IN663S,mild_and_gentle_on_skin,5.29
+IN,FC,blind_hut_benefit_score,IN640S,Fragrance fresh florals - celestial AI: IN640S,moisturization,5.25
+IN,FC,blind_hut_benefit_score,IN644S,Fragrance fresh fruits - Olay berry body lotion: IN644S,moisturization,5.35
+IN,FC,blind_hut_benefit_score,IN643S,Fragrance fresh fruits - bali beach LLF2: IN643S,moisturization,5.33
+IN,FC,blind_hut_benefit_score,IN639S,Fragrance natural freshness - highland M: IN639S,moisturization,5.27
+IN,FC,blind_hut_benefit_score,IN642S,Fragrance opulent florals - vibrant M: IN642S,moisturization,5.12
+IN,FC,blind_hut_benefit_score,IN637S,Fragrance sparkling freshness - uplifting: IN637S,moisturization,5.1
+IN,FC,blind_hut_benefit_score,IN647W,JOHNSONS baby oil: IN647W,moisturization,4.97
+IN,FC,blind_hut_benefit_score,TH248W,JOHNSONS baby powder: TH248W,moisturization,4.9
+IN,FC,blind_hut_benefit_score,CN747W,KIEHLS multi corrective cream: CN747W,moisturization,4.99
+IN,FC,blind_hut_benefit_score,IN638S,Fragrance technical freshness - SY22: IN638S,moisturization,5.12
+IN,FC,blind_hut_benefit_score,CN739W,PONDS upper eye cream sea flower: CN739W,moisturization,5.12
+IN,FC,blind_hut_benefit_score,IN657S,GARNIER vitamin C Cream: IN657S,moisturization,5.16
+IN,FC,blind_hut_benefit_score,CN744W,PROYA cream: CN744W,moisturization,5.09
+IN,FC,blind_hut_benefit_score,IN651W,GARNIER vitamin C Serum: IN651W,moisturization,5.14
+IN,FC,blind_hut_benefit_score,IN656S,GLOW AND LOVELY multivitamin cream: IN656S,moisturization,5.22
+IN,FC,blind_hut_benefit_score,K56W,HADALABO gel: K56W,moisturization,4.96
+IN,FC,blind_hut_benefit_score,IN648S,SAFI Youth Gold Lifting 24K Gold Essence: IN648S,moisturization,5.26
+IN,FC,blind_hut_benefit_score,J13S,SHISEIDO Aqua Label Special Gel Cream Oil In: J13S,moisturization,4.84
+IN,FC,blind_hut_benefit_score,CN737W,SOFINA pink primer: CN737W,moisturization,4.87
+IN,FC,blind_hut_benefit_score,IN666S,LAKME absolute hydra pro tinted moisturizer: IN666S,moisturization,5.3
+IN,FC,blind_hut_benefit_score,IN665S,LAKME mousse foundation: IN665S,moisturization,5.05
+IN,FC,blind_hut_benefit_score,RU02W,LOREAL PARIS 1.5% Pure Hyaluronic Acid Serum: RU02W,moisturization,4.91
+IN,FC,blind_hut_benefit_score,IN658W,PONDS Super Light Serum: IN658W,moisturization,4.75
+IN,FC,blind_hut_benefit_score,IN664S,PONDS cold cream: IN664S,moisturization,5.24
+IN,FC,blind_hut_benefit_score,US239W,SUPERGOOP sunscreen: US239W,moisturization,4.78
+IN,FC,blind_hut_benefit_score,IN660W,PONDS light moisturizer: IN660W,moisturization,5.34
+IN,FC,blind_hut_benefit_score,IN650W,PONDS piccolo serum: IN650W,moisturization,5.22
+IN,FC,blind_hut_benefit_score,IN661W,PONDS super light gel 0.25% menthol: IN661W,moisturization,5.08
+IN,FC,blind_hut_benefit_score,IN662W,PONDS super light gel original: IN662W,moisturization,5.22
+IN,FC,blind_hut_benefit_score,CN738W,TIMIER water rich protection makeup base: CN738W,moisturization,5.06
+IN,FC,blind_hut_benefit_score,CN750W,VASELINE glutahya lotion: CN750W,moisturization,5.23
+IN,FC,blind_hut_benefit_score,IN646W,VASELINE petroleum jelly: IN646W,moisturization,5.01
+IN,FC,blind_hut_benefit_score,CN743S,VASELINE radiant glow lotion: CN743S,moisturization,5.12
+IN,FC,blind_hut_benefit_score,IN654S,WHITE TONE soft and smooth face cream: IN654S,moisturization,5.12
+IN,FC,blind_hut_benefit_score,IN659W,ALBION skin conditioner: IN659W,moisturization,4.75
+IN,FC,blind_hut_benefit_score,IN652S,BOROPLUS antiseptic cream: IN652S,moisturization,5.12
+IN,FC,blind_hut_benefit_score,CN740S,CathKidston Rose Mask: CN740S,moisturization,4.92
+IN,FC,blind_hut_benefit_score,US241W,ELIZABETH ARDEN 8 hour cream: US241W,moisturization,4.35
+IN,FC,blind_hut_benefit_score,IN641S,Fragrance caring florals - VIP list LY: IN641S,moisturization,5.35
+IN,FC,blind_hut_benefit_score,IN649S,Nature republic aloe vera gel: IN649S,moisturization,5.18
+IN,FC,blind_hut_benefit_score,IN655S,OLAY Natural Aura 7 IN ONE Instant Glowing Radiance with UV Protection: IN655S,moisturization,5.13
+IN,FC,blind_hut_benefit_score,TH249W,OLAY retinol 24 night serum: TH249W,moisturization,4.82
+IN,FC,blind_hut_benefit_score,IN653S,PONDS B122: IN653S,moisturization,5.22
+IN,FC,blind_hut_benefit_score,IN663S,PONDS Bright Beauty Serum Cream: IN663S,moisturization,5.25
+IN,FC,blind_hut_benefit_score,IN640S,Fragrance fresh florals - celestial AI: IN640S,natural_product,5.21
+IN,FC,blind_hut_benefit_score,IN644S,Fragrance fresh fruits - Olay berry body lotion: IN644S,natural_product,5.24
+IN,FC,blind_hut_benefit_score,IN643S,Fragrance fresh fruits - bali beach LLF2: IN643S,natural_product,5.33
+IN,FC,blind_hut_benefit_score,IN639S,Fragrance natural freshness - highland M: IN639S,natural_product,5.2
+IN,FC,blind_hut_benefit_score,IN642S,Fragrance opulent florals - vibrant M: IN642S,natural_product,5.07
+IN,FC,blind_hut_benefit_score,IN637S,Fragrance sparkling freshness - uplifting: IN637S,natural_product,5.02
+IN,FC,blind_hut_benefit_score,IN647W,JOHNSONS baby oil: IN647W,natural_product,4.85
+IN,FC,blind_hut_benefit_score,TH248W,JOHNSONS baby powder: TH248W,natural_product,5.03
+IN,FC,blind_hut_benefit_score,CN747W,KIEHLS multi corrective cream: CN747W,natural_product,4.96
+IN,FC,blind_hut_benefit_score,IN638S,Fragrance technical freshness - SY22: IN638S,natural_product,5.05
+IN,FC,blind_hut_benefit_score,CN739W,PONDS upper eye cream sea flower: CN739W,natural_product,5.01
+IN,FC,blind_hut_benefit_score,IN657S,GARNIER vitamin C Cream: IN657S,natural_product,5.15
+IN,FC,blind_hut_benefit_score,CN744W,PROYA cream: CN744W,natural_product,5.02
+IN,FC,blind_hut_benefit_score,IN651W,GARNIER vitamin C Serum: IN651W,natural_product,5.02
+IN,FC,blind_hut_benefit_score,IN656S,GLOW AND LOVELY multivitamin cream: IN656S,natural_product,5.21
+IN,FC,blind_hut_benefit_score,K56W,HADALABO gel: K56W,natural_product,4.85
+IN,FC,blind_hut_benefit_score,IN648S,SAFI Youth Gold Lifting 24K Gold Essence: IN648S,natural_product,5.13
+IN,FC,blind_hut_benefit_score,J13S,SHISEIDO Aqua Label Special Gel Cream Oil In: J13S,natural_product,4.81
+IN,FC,blind_hut_benefit_score,CN737W,SOFINA pink primer: CN737W,natural_product,4.82
+IN,FC,blind_hut_benefit_score,IN666S,LAKME absolute hydra pro tinted moisturizer: IN666S,natural_product,5.18
+IN,FC,blind_hut_benefit_score,IN665S,LAKME mousse foundation: IN665S,natural_product,5.03
+IN,FC,blind_hut_benefit_score,RU02W,LOREAL PARIS 1.5% Pure Hyaluronic Acid Serum: RU02W,natural_product,4.85
+IN,FC,blind_hut_benefit_score,IN658W,PONDS Super Light Serum: IN658W,natural_product,4.66
+IN,FC,blind_hut_benefit_score,IN664S,PONDS cold cream: IN664S,natural_product,5.13
+IN,FC,blind_hut_benefit_score,US239W,SUPERGOOP sunscreen: US239W,natural_product,4.64
+IN,FC,blind_hut_benefit_score,IN660W,PONDS light moisturizer: IN660W,natural_product,5.2
+IN,FC,blind_hut_benefit_score,IN650W,PONDS piccolo serum: IN650W,natural_product,5.1
+IN,FC,blind_hut_benefit_score,IN661W,PONDS super light gel 0.25% menthol: IN661W,natural_product,4.93
+IN,FC,blind_hut_benefit_score,IN662W,PONDS super light gel original: IN662W,natural_product,5.14
+IN,FC,blind_hut_benefit_score,CN738W,TIMIER water rich protection makeup base: CN738W,natural_product,5.05
+IN,FC,blind_hut_benefit_score,CN750W,VASELINE glutahya lotion: CN750W,natural_product,5.1
+IN,FC,blind_hut_benefit_score,IN646W,VASELINE petroleum jelly: IN646W,natural_product,4.86
+IN,FC,blind_hut_benefit_score,CN743S,VASELINE radiant glow lotion: CN743S,natural_product,5.07
+IN,FC,blind_hut_benefit_score,IN654S,WHITE TONE soft and smooth face cream: IN654S,natural_product,5.15
+IN,FC,blind_hut_benefit_score,IN659W,ALBION skin conditioner: IN659W,natural_product,4.72
+IN,FC,blind_hut_benefit_score,IN652S,BOROPLUS antiseptic cream: IN652S,natural_product,5.03
+IN,FC,blind_hut_benefit_score,CN740S,CathKidston Rose Mask: CN740S,natural_product,4.93
+IN,FC,blind_hut_benefit_score,US241W,ELIZABETH ARDEN 8 hour cream: US241W,natural_product,4.24
+IN,FC,blind_hut_benefit_score,IN641S,Fragrance caring florals - VIP list LY: IN641S,natural_product,5.27
+IN,FC,blind_hut_benefit_score,IN649S,Nature republic aloe vera gel: IN649S,natural_product,5.12
+IN,FC,blind_hut_benefit_score,IN655S,OLAY Natural Aura 7 IN ONE Instant Glowing Radiance with UV Protection: IN655S,natural_product,5.06
+IN,FC,blind_hut_benefit_score,TH249W,OLAY retinol 24 night serum: TH249W,natural_product,4.72
+IN,FC,blind_hut_benefit_score,IN653S,PONDS B122: IN653S,natural_product,5.17
+IN,FC,blind_hut_benefit_score,IN663S,PONDS Bright Beauty Serum Cream: IN663S,natural_product,5.18
+IN,FC,blind_hut_benefit_score,IN640S,Fragrance fresh florals - celestial AI: IN640S,no_patchy_look,5.0
+IN,FC,blind_hut_benefit_score,IN644S,Fragrance fresh fruits - Olay berry body lotion: IN644S,no_patchy_look,4.98
+IN,FC,blind_hut_benefit_score,IN643S,Fragrance fresh fruits - bali beach LLF2: IN643S,no_patchy_look,5.02
+IN,FC,blind_hut_benefit_score,IN639S,Fragrance natural freshness - highland M: IN639S,no_patchy_look,4.96
+IN,FC,blind_hut_benefit_score,IN642S,Fragrance opulent florals - vibrant M: IN642S,no_patchy_look,4.81
+IN,FC,blind_hut_benefit_score,IN637S,Fragrance sparkling freshness - uplifting: IN637S,no_patchy_look,4.78
+IN,FC,blind_hut_benefit_score,IN647W,JOHNSONS baby oil: IN647W,no_patchy_look,4.6
+IN,FC,blind_hut_benefit_score,TH248W,JOHNSONS baby powder: TH248W,no_patchy_look,4.83
+IN,FC,blind_hut_benefit_score,CN747W,KIEHLS multi corrective cream: CN747W,no_patchy_look,4.69
+IN,FC,blind_hut_benefit_score,IN638S,Fragrance technical freshness - SY22: IN638S,no_patchy_look,4.82
+IN,FC,blind_hut_benefit_score,CN739W,PONDS upper eye cream sea flower: CN739W,no_patchy_look,4.7
+IN,FC,blind_hut_benefit_score,IN657S,GARNIER vitamin C Cream: IN657S,no_patchy_look,4.87
+IN,FC,blind_hut_benefit_score,CN744W,PROYA cream: CN744W,no_patchy_look,4.83
+IN,FC,blind_hut_benefit_score,IN651W,GARNIER vitamin C Serum: IN651W,no_patchy_look,4.78
+IN,FC,blind_hut_benefit_score,IN656S,GLOW AND LOVELY multivitamin cream: IN656S,no_patchy_look,4.95
+IN,FC,blind_hut_benefit_score,K56W,HADALABO gel: K56W,no_patchy_look,4.66
+IN,FC,blind_hut_benefit_score,IN648S,SAFI Youth Gold Lifting 24K Gold Essence: IN648S,no_patchy_look,4.82
+IN,FC,blind_hut_benefit_score,J13S,SHISEIDO Aqua Label Special Gel Cream Oil In: J13S,no_patchy_look,4.56
+IN,FC,blind_hut_benefit_score,CN737W,SOFINA pink primer: CN737W,no_patchy_look,4.61
+IN,FC,blind_hut_benefit_score,IN666S,LAKME absolute hydra pro tinted moisturizer: IN666S,no_patchy_look,4.86
+IN,FC,blind_hut_benefit_score,IN665S,LAKME mousse foundation: IN665S,no_patchy_look,4.82
+IN,FC,blind_hut_benefit_score,RU02W,LOREAL PARIS 1.5% Pure Hyaluronic Acid Serum: RU02W,no_patchy_look,4.6
+IN,FC,blind_hut_benefit_score,IN658W,PONDS Super Light Serum: IN658W,no_patchy_look,4.31
+IN,FC,blind_hut_benefit_score,IN664S,PONDS cold cream: IN664S,no_patchy_look,4.83
+IN,FC,blind_hut_benefit_score,US239W,SUPERGOOP sunscreen: US239W,no_patchy_look,4.41
+IN,FC,blind_hut_benefit_score,IN660W,PONDS light moisturizer: IN660W,no_patchy_look,4.96
+IN,FC,blind_hut_benefit_score,IN650W,PONDS piccolo serum: IN650W,no_patchy_look,4.88
+IN,FC,blind_hut_benefit_score,IN661W,PONDS super light gel 0.25% menthol: IN661W,no_patchy_look,4.7
+IN,FC,blind_hut_benefit_score,IN662W,PONDS super light gel original: IN662W,no_patchy_look,4.85
+IN,FC,blind_hut_benefit_score,CN738W,TIMIER water rich protection makeup base: CN738W,no_patchy_look,4.74
+IN,FC,blind_hut_benefit_score,CN750W,VASELINE glutahya lotion: CN750W,no_patchy_look,4.86
+IN,FC,blind_hut_benefit_score,IN646W,VASELINE petroleum jelly: IN646W,no_patchy_look,4.69
+IN,FC,blind_hut_benefit_score,CN743S,VASELINE radiant glow lotion: CN743S,no_patchy_look,4.86
+IN,FC,blind_hut_benefit_score,IN654S,WHITE TONE soft and smooth face cream: IN654S,no_patchy_look,4.8
+IN,FC,blind_hut_benefit_score,IN659W,ALBION skin conditioner: IN659W,no_patchy_look,4.52
+IN,FC,blind_hut_benefit_score,IN652S,BOROPLUS antiseptic cream: IN652S,no_patchy_look,4.75
+IN,FC,blind_hut_benefit_score,CN740S,CathKidston Rose Mask: CN740S,no_patchy_look,4.75
+IN,FC,blind_hut_benefit_score,US241W,ELIZABETH ARDEN 8 hour cream: US241W,no_patchy_look,4.07
+IN,FC,blind_hut_benefit_score,IN641S,Fragrance caring florals - VIP list LY: IN641S,no_patchy_look,4.94
+IN,FC,blind_hut_benefit_score,IN649S,Nature republic aloe vera gel: IN649S,no_patchy_look,4.94
+IN,FC,blind_hut_benefit_score,IN655S,OLAY Natural Aura 7 IN ONE Instant Glowing Radiance with UV Protection: IN655S,no_patchy_look,4.86
+IN,FC,blind_hut_benefit_score,TH249W,OLAY retinol 24 night serum: TH249W,no_patchy_look,4.49
+IN,FC,blind_hut_benefit_score,IN653S,PONDS B122: IN653S,no_patchy_look,4.88
+IN,FC,blind_hut_benefit_score,IN663S,PONDS Bright Beauty Serum Cream: IN663S,no_patchy_look,4.92
+IN,FC,blind_hut_benefit_score,IN640S,Fragrance fresh florals - celestial AI: IN640S,no_sweating_during_the_day,4.89
+IN,FC,blind_hut_benefit_score,IN644S,Fragrance fresh fruits - Olay berry body lotion: IN644S,no_sweating_during_the_day,4.88
+IN,FC,blind_hut_benefit_score,IN643S,Fragrance fresh fruits - bali beach LLF2: IN643S,no_sweating_during_the_day,5.02
+IN,FC,blind_hut_benefit_score,IN639S,Fragrance natural freshness - highland M: IN639S,no_sweating_during_the_day,4.89
+IN,FC,blind_hut_benefit_score,IN642S,Fragrance opulent florals - vibrant M: IN642S,no_sweating_during_the_day,4.81
+IN,FC,blind_hut_benefit_score,IN637S,Fragrance sparkling freshness - uplifting: IN637S,no_sweating_during_the_day,4.76
+IN,FC,blind_hut_benefit_score,IN647W,JOHNSONS baby oil: IN647W,no_sweating_during_the_day,4.63
+IN,FC,blind_hut_benefit_score,TH248W,JOHNSONS baby powder: TH248W,no_sweating_during_the_day,4.78
+IN,FC,blind_hut_benefit_score,CN747W,KIEHLS multi corrective cream: CN747W,no_sweating_during_the_day,4.61
+IN,FC,blind_hut_benefit_score,IN638S,Fragrance technical freshness - SY22: IN638S,no_sweating_during_the_day,4.74
+IN,FC,blind_hut_benefit_score,CN739W,PONDS upper eye cream sea flower: CN739W,no_sweating_during_the_day,4.7
+IN,FC,blind_hut_benefit_score,IN657S,GARNIER vitamin C Cream: IN657S,no_sweating_during_the_day,4.85
+IN,FC,blind_hut_benefit_score,CN744W,PROYA cream: CN744W,no_sweating_during_the_day,4.72
+IN,FC,blind_hut_benefit_score,IN651W,GARNIER vitamin C Serum: IN651W,no_sweating_during_the_day,4.73
+IN,FC,blind_hut_benefit_score,IN656S,GLOW AND LOVELY multivitamin cream: IN656S,no_sweating_during_the_day,4.87
+IN,FC,blind_hut_benefit_score,K56W,HADALABO gel: K56W,no_sweating_during_the_day,4.62
+IN,FC,blind_hut_benefit_score,IN648S,SAFI Youth Gold Lifting 24K Gold Essence: IN648S,no_sweating_during_the_day,4.72
+IN,FC,blind_hut_benefit_score,J13S,SHISEIDO Aqua Label Special Gel Cream Oil In: J13S,no_sweating_during_the_day,4.5
+IN,FC,blind_hut_benefit_score,CN737W,SOFINA pink primer: CN737W,no_sweating_during_the_day,4.57
+IN,FC,blind_hut_benefit_score,IN666S,LAKME absolute hydra pro tinted moisturizer: IN666S,no_sweating_during_the_day,4.92
+IN,FC,blind_hut_benefit_score,IN665S,LAKME mousse foundation: IN665S,no_sweating_during_the_day,4.74
+IN,FC,blind_hut_benefit_score,RU02W,LOREAL PARIS 1.5% Pure Hyaluronic Acid Serum: RU02W,no_sweating_during_the_day,4.58
+IN,FC,blind_hut_benefit_score,IN658W,PONDS Super Light Serum: IN658W,no_sweating_during_the_day,4.35
+IN,FC,blind_hut_benefit_score,IN664S,PONDS cold cream: IN664S,no_sweating_during_the_day,4.8
+IN,FC,blind_hut_benefit_score,US239W,SUPERGOOP sunscreen: US239W,no_sweating_during_the_day,4.42
+IN,FC,blind_hut_benefit_score,IN660W,PONDS light moisturizer: IN660W,no_sweating_during_the_day,4.89
+IN,FC,blind_hut_benefit_score,IN650W,PONDS piccolo serum: IN650W,no_sweating_during_the_day,4.79
+IN,FC,blind_hut_benefit_score,IN661W,PONDS super light gel 0.25% menthol: IN661W,no_sweating_during_the_day,4.67
+IN,FC,blind_hut_benefit_score,IN662W,PONDS super light gel original: IN662W,no_sweating_during_the_day,4.88
+IN,FC,blind_hut_benefit_score,CN738W,TIMIER water rich protection makeup base: CN738W,no_sweating_during_the_day,4.69
+IN,FC,blind_hut_benefit_score,CN750W,VASELINE glutahya lotion: CN750W,no_sweating_during_the_day,4.74
+IN,FC,blind_hut_benefit_score,IN646W,VASELINE petroleum jelly: IN646W,no_sweating_during_the_day,4.64
+IN,FC,blind_hut_benefit_score,CN743S,VASELINE radiant glow lotion: CN743S,no_sweating_during_the_day,4.77
+IN,FC,blind_hut_benefit_score,IN654S,WHITE TONE soft and smooth face cream: IN654S,no_sweating_during_the_day,4.78
+IN,FC,blind_hut_benefit_score,IN659W,ALBION skin conditioner: IN659W,no_sweating_during_the_day,4.47
+IN,FC,blind_hut_benefit_score,IN652S,BOROPLUS antiseptic cream: IN652S,no_sweating_during_the_day,4.75
+IN,FC,blind_hut_benefit_score,CN740S,CathKidston Rose Mask: CN740S,no_sweating_during_the_day,4.61
+IN,FC,blind_hut_benefit_score,US241W,ELIZABETH ARDEN 8 hour cream: US241W,no_sweating_during_the_day,4.04
+IN,FC,blind_hut_benefit_score,IN641S,Fragrance caring florals - VIP list LY: IN641S,no_sweating_during_the_day,4.86
+IN,FC,blind_hut_benefit_score,IN649S,Nature republic aloe vera gel: IN649S,no_sweating_during_the_day,4.77
+IN,FC,blind_hut_benefit_score,IN655S,OLAY Natural Aura 7 IN ONE Instant Glowing Radiance with UV Protection: IN655S,no_sweating_during_the_day,4.8
+IN,FC,blind_hut_benefit_score,TH249W,OLAY retinol 24 night serum: TH249W,no_sweating_during_the_day,4.56
+IN,FC,blind_hut_benefit_score,IN653S,PONDS B122: IN653S,no_sweating_during_the_day,4.83
+IN,FC,blind_hut_benefit_score,IN663S,PONDS Bright Beauty Serum Cream: IN663S,no_sweating_during_the_day,4.7
+IN,FC,blind_hut_benefit_score,IN640S,Fragrance fresh florals - celestial AI: IN640S,no_unwanted_oiliness,4.96
+IN,FC,blind_hut_benefit_score,IN644S,Fragrance fresh fruits - Olay berry body lotion: IN644S,no_unwanted_oiliness,4.9
+IN,FC,blind_hut_benefit_score,IN643S,Fragrance fresh fruits - bali beach LLF2: IN643S,no_unwanted_oiliness,4.94
+IN,FC,blind_hut_benefit_score,IN639S,Fragrance natural freshness - highland M: IN639S,no_unwanted_oiliness,4.87
+IN,FC,blind_hut_benefit_score,IN642S,Fragrance opulent florals - vibrant M: IN642S,no_unwanted_oiliness,4.84
+IN,FC,blind_hut_benefit_score,IN637S,Fragrance sparkling freshness - uplifting: IN637S,no_unwanted_oiliness,4.72
+IN,FC,blind_hut_benefit_score,IN647W,JOHNSONS baby oil: IN647W,no_unwanted_oiliness,4.65
+IN,FC,blind_hut_benefit_score,TH248W,JOHNSONS baby powder: TH248W,no_unwanted_oiliness,4.8
+IN,FC,blind_hut_benefit_score,CN747W,KIEHLS multi corrective cream: CN747W,no_unwanted_oiliness,4.64
+IN,FC,blind_hut_benefit_score,IN638S,Fragrance technical freshness - SY22: IN638S,no_unwanted_oiliness,4.87
+IN,FC,blind_hut_benefit_score,CN739W,PONDS upper eye cream sea flower: CN739W,no_unwanted_oiliness,4.7
+IN,FC,blind_hut_benefit_score,IN657S,GARNIER vitamin C Cream: IN657S,no_unwanted_oiliness,4.89
+IN,FC,blind_hut_benefit_score,CN744W,PROYA cream: CN744W,no_unwanted_oiliness,4.73
+IN,FC,blind_hut_benefit_score,IN651W,GARNIER vitamin C Serum: IN651W,no_unwanted_oiliness,4.73
+IN,FC,blind_hut_benefit_score,IN656S,GLOW AND LOVELY multivitamin cream: IN656S,no_unwanted_oiliness,4.94
+IN,FC,blind_hut_benefit_score,K56W,HADALABO gel: K56W,no_unwanted_oiliness,4.62
+IN,FC,blind_hut_benefit_score,IN648S,SAFI Youth Gold Lifting 24K Gold Essence: IN648S,no_unwanted_oiliness,4.82
+IN,FC,blind_hut_benefit_score,J13S,SHISEIDO Aqua Label Special Gel Cream Oil In: J13S,no_unwanted_oiliness,4.55
+IN,FC,blind_hut_benefit_score,CN737W,SOFINA pink primer: CN737W,no_unwanted_oiliness,4.62
+IN,FC,blind_hut_benefit_score,IN666S,LAKME absolute hydra pro tinted moisturizer: IN666S,no_unwanted_oiliness,4.93
+IN,FC,blind_hut_benefit_score,IN665S,LAKME mousse foundation: IN665S,no_unwanted_oiliness,4.8
+IN,FC,blind_hut_benefit_score,RU02W,LOREAL PARIS 1.5% Pure Hyaluronic Acid Serum: RU02W,no_unwanted_oiliness,4.63
+IN,FC,blind_hut_benefit_score,IN658W,PONDS Super Light Serum: IN658W,no_unwanted_oiliness,4.37
+IN,FC,blind_hut_benefit_score,IN664S,PONDS cold cream: IN664S,no_unwanted_oiliness,4.86
+IN,FC,blind_hut_benefit_score,US239W,SUPERGOOP sunscreen: US239W,no_unwanted_oiliness,4.39
+IN,FC,blind_hut_benefit_score,IN660W,PONDS light moisturizer: IN660W,no_unwanted_oiliness,4.95
+IN,FC,blind_hut_benefit_score,IN650W,PONDS piccolo serum: IN650W,no_unwanted_oiliness,4.81
+IN,FC,blind_hut_benefit_score,IN661W,PONDS super light gel 0.25% menthol: IN661W,no_unwanted_oiliness,4.72
+IN,FC,blind_hut_benefit_score,IN662W,PONDS super light gel original: IN662W,no_unwanted_oiliness,4.89
+IN,FC,blind_hut_benefit_score,CN738W,TIMIER water rich protection makeup base: CN738W,no_unwanted_oiliness,4.74
+IN,FC,blind_hut_benefit_score,CN750W,VASELINE glutahya lotion: CN750W,no_unwanted_oiliness,4.8
+IN,FC,blind_hut_benefit_score,IN646W,VASELINE petroleum jelly: IN646W,no_unwanted_oiliness,4.68
+IN,FC,blind_hut_benefit_score,CN743S,VASELINE radiant glow lotion: CN743S,no_unwanted_oiliness,4.86
+IN,FC,blind_hut_benefit_score,IN654S,WHITE TONE soft and smooth face cream: IN654S,no_unwanted_oiliness,4.85
+IN,FC,blind_hut_benefit_score,IN659W,ALBION skin conditioner: IN659W,no_unwanted_oiliness,4.51
+IN,FC,blind_hut_benefit_score,IN652S,BOROPLUS antiseptic cream: IN652S,no_unwanted_oiliness,4.71
+IN,FC,blind_hut_benefit_score,CN740S,CathKidston Rose Mask: CN740S,no_unwanted_oiliness,4.69
+IN,FC,blind_hut_benefit_score,US241W,ELIZABETH ARDEN 8 hour cream: US241W,no_unwanted_oiliness,4.11
+IN,FC,blind_hut_benefit_score,IN641S,Fragrance caring florals - VIP list LY: IN641S,no_unwanted_oiliness,4.91
+IN,FC,blind_hut_benefit_score,IN649S,Nature republic aloe vera gel: IN649S,no_unwanted_oiliness,4.67
+IN,FC,blind_hut_benefit_score,IN655S,OLAY Natural Aura 7 IN ONE Instant Glowing Radiance with UV Protection: IN655S,no_unwanted_oiliness,4.88
+IN,FC,blind_hut_benefit_score,TH249W,OLAY retinol 24 night serum: TH249W,no_unwanted_oiliness,4.49
+IN,FC,blind_hut_benefit_score,IN653S,PONDS B122: IN653S,no_unwanted_oiliness,4.91
+IN,FC,blind_hut_benefit_score,IN663S,PONDS Bright Beauty Serum Cream: IN663S,no_unwanted_oiliness,4.91
+IN,FC,blind_hut_benefit_score,IN640S,Fragrance fresh florals - celestial AI: IN640S,overall_opinion,7.47
+IN,FC,blind_hut_benefit_score,IN644S,Fragrance fresh fruits - Olay berry body lotion: IN644S,overall_opinion,7.46
+IN,FC,blind_hut_benefit_score,IN643S,Fragrance fresh fruits - bali beach LLF2: IN643S,overall_opinion,7.56
+IN,FC,blind_hut_benefit_score,IN639S,Fragrance natural freshness - highland M: IN639S,overall_opinion,7.49
+IN,FC,blind_hut_benefit_score,IN642S,Fragrance opulent florals - vibrant M: IN642S,overall_opinion,7.32
+IN,FC,blind_hut_benefit_score,IN637S,Fragrance sparkling freshness - uplifting: IN637S,overall_opinion,6.97
+IN,FC,blind_hut_benefit_score,IN647W,JOHNSONS baby oil: IN647W,overall_opinion,6.78
+IN,FC,blind_hut_benefit_score,TH248W,JOHNSONS baby powder: TH248W,overall_opinion,7.1
+IN,FC,blind_hut_benefit_score,CN747W,KIEHLS multi corrective cream: CN747W,overall_opinion,6.73
+IN,FC,blind_hut_benefit_score,IN638S,Fragrance technical freshness - SY22: IN638S,overall_opinion,7.2
+IN,FC,blind_hut_benefit_score,CN739W,PONDS upper eye cream sea flower: CN739W,overall_opinion,6.97
+IN,FC,blind_hut_benefit_score,IN657S,GARNIER vitamin C Cream: IN657S,overall_opinion,7.28
+IN,FC,blind_hut_benefit_score,CN744W,PROYA cream: CN744W,overall_opinion,7.04
+IN,FC,blind_hut_benefit_score,IN651W,GARNIER vitamin C Serum: IN651W,overall_opinion,7.02
+IN,FC,blind_hut_benefit_score,IN656S,GLOW AND LOVELY multivitamin cream: IN656S,overall_opinion,7.28
+IN,FC,blind_hut_benefit_score,K56W,HADALABO gel: K56W,overall_opinion,6.63
+IN,FC,blind_hut_benefit_score,IN648S,SAFI Youth Gold Lifting 24K Gold Essence: IN648S,overall_opinion,7.21
+IN,FC,blind_hut_benefit_score,J13S,SHISEIDO Aqua Label Special Gel Cream Oil In: J13S,overall_opinion,6.72
+IN,FC,blind_hut_benefit_score,CN737W,SOFINA pink primer: CN737W,overall_opinion,6.69
+IN,FC,blind_hut_benefit_score,IN666S,LAKME absolute hydra pro tinted moisturizer: IN666S,overall_opinion,7.46
+IN,FC,blind_hut_benefit_score,IN665S,LAKME mousse foundation: IN665S,overall_opinion,7.12
+IN,FC,blind_hut_benefit_score,RU02W,LOREAL PARIS 1.5% Pure Hyaluronic Acid Serum: RU02W,overall_opinion,6.76
+IN,FC,blind_hut_benefit_score,IN658W,PONDS Super Light Serum: IN658W,overall_opinion,6.58
+IN,FC,blind_hut_benefit_score,IN664S,PONDS cold cream: IN664S,overall_opinion,7.28
+IN,FC,blind_hut_benefit_score,US239W,SUPERGOOP sunscreen: US239W,overall_opinion,6.36
+IN,FC,blind_hut_benefit_score,IN660W,PONDS light moisturizer: IN660W,overall_opinion,7.35
+IN,FC,blind_hut_benefit_score,IN650W,PONDS piccolo serum: IN650W,overall_opinion,7.17
+IN,FC,blind_hut_benefit_score,IN661W,PONDS super light gel 0.25% menthol: IN661W,overall_opinion,6.95
+IN,FC,blind_hut_benefit_score,IN662W,PONDS super light gel original: IN662W,overall_opinion,7.25
+IN,FC,blind_hut_benefit_score,CN738W,TIMIER water rich protection makeup base: CN738W,overall_opinion,7.07
+IN,FC,blind_hut_benefit_score,CN750W,VASELINE glutahya lotion: CN750W,overall_opinion,7.21
+IN,FC,blind_hut_benefit_score,IN646W,VASELINE petroleum jelly: IN646W,overall_opinion,6.69
+IN,FC,blind_hut_benefit_score,CN743S,VASELINE radiant glow lotion: CN743S,overall_opinion,7.16
+IN,FC,blind_hut_benefit_score,IN654S,WHITE TONE soft and smooth face cream: IN654S,overall_opinion,7.22
+IN,FC,blind_hut_benefit_score,IN659W,ALBION skin conditioner: IN659W,overall_opinion,6.44
+IN,FC,blind_hut_benefit_score,IN652S,BOROPLUS antiseptic cream: IN652S,overall_opinion,7.02
+IN,FC,blind_hut_benefit_score,CN740S,CathKidston Rose Mask: CN740S,overall_opinion,6.82
+IN,FC,blind_hut_benefit_score,US241W,ELIZABETH ARDEN 8 hour cream: US241W,overall_opinion,5.51
+IN,FC,blind_hut_benefit_score,IN641S,Fragrance caring florals - VIP list LY: IN641S,overall_opinion,7.5
+IN,FC,blind_hut_benefit_score,IN649S,Nature republic aloe vera gel: IN649S,overall_opinion,7.14
+IN,FC,blind_hut_benefit_score,IN655S,OLAY Natural Aura 7 IN ONE Instant Glowing Radiance with UV Protection: IN655S,overall_opinion,7.14
+IN,FC,blind_hut_benefit_score,TH249W,OLAY retinol 24 night serum: TH249W,overall_opinion,6.52
+IN,FC,blind_hut_benefit_score,IN653S,PONDS B122: IN653S,overall_opinion,7.21
+IN,FC,blind_hut_benefit_score,IN663S,PONDS Bright Beauty Serum Cream: IN663S,overall_opinion,7.43
+IN,FC,blind_hut_benefit_score,IN640S,Fragrance fresh florals - celestial AI: IN640S,premium_product,5.29
+IN,FC,blind_hut_benefit_score,IN644S,Fragrance fresh fruits - Olay berry body lotion: IN644S,premium_product,5.3
+IN,FC,blind_hut_benefit_score,IN643S,Fragrance fresh fruits - bali beach LLF2: IN643S,premium_product,5.36
+IN,FC,blind_hut_benefit_score,IN639S,Fragrance natural freshness - highland M: IN639S,premium_product,5.28
+IN,FC,blind_hut_benefit_score,IN642S,Fragrance opulent florals - vibrant M: IN642S,premium_product,5.11
+IN,FC,blind_hut_benefit_score,IN637S,Fragrance sparkling freshness - uplifting: IN637S,premium_product,5.09
+IN,FC,blind_hut_benefit_score,IN647W,JOHNSONS baby oil: IN647W,premium_product,4.91
+IN,FC,blind_hut_benefit_score,TH248W,JOHNSONS baby powder: TH248W,premium_product,5.07
+IN,FC,blind_hut_benefit_score,CN747W,KIEHLS multi corrective cream: CN747W,premium_product,4.83
+IN,FC,blind_hut_benefit_score,IN638S,Fragrance technical freshness - SY22: IN638S,premium_product,5.08
+IN,FC,blind_hut_benefit_score,CN739W,PONDS upper eye cream sea flower: CN739W,premium_product,5.02
+IN,FC,blind_hut_benefit_score,IN657S,GARNIER vitamin C Cream: IN657S,premium_product,5.2
+IN,FC,blind_hut_benefit_score,CN744W,PROYA cream: CN744W,premium_product,5.05
+IN,FC,blind_hut_benefit_score,IN651W,GARNIER vitamin C Serum: IN651W,premium_product,5.04
+IN,FC,blind_hut_benefit_score,IN656S,GLOW AND LOVELY multivitamin cream: IN656S,premium_product,5.23
+IN,FC,blind_hut_benefit_score,K56W,HADALABO gel: K56W,premium_product,4.87
+IN,FC,blind_hut_benefit_score,IN648S,SAFI Youth Gold Lifting 24K Gold Essence: IN648S,premium_product,5.1
+IN,FC,blind_hut_benefit_score,J13S,SHISEIDO Aqua Label Special Gel Cream Oil In: J13S,premium_product,4.78
+IN,FC,blind_hut_benefit_score,CN737W,SOFINA pink primer: CN737W,premium_product,4.89
+IN,FC,blind_hut_benefit_score,IN666S,LAKME absolute hydra pro tinted moisturizer: IN666S,premium_product,5.26
+IN,FC,blind_hut_benefit_score,IN665S,LAKME mousse foundation: IN665S,premium_product,5.17
+IN,FC,blind_hut_benefit_score,RU02W,LOREAL PARIS 1.5% Pure Hyaluronic Acid Serum: RU02W,premium_product,4.81
+IN,FC,blind_hut_benefit_score,IN658W,PONDS Super Light Serum: IN658W,premium_product,4.7
+IN,FC,blind_hut_benefit_score,IN664S,PONDS cold cream: IN664S,premium_product,5.13
+IN,FC,blind_hut_benefit_score,US239W,SUPERGOOP sunscreen: US239W,premium_product,4.63
+IN,FC,blind_hut_benefit_score,IN660W,PONDS light moisturizer: IN660W,premium_product,5.2
+IN,FC,blind_hut_benefit_score,IN650W,PONDS piccolo serum: IN650W,premium_product,5.13
+IN,FC,blind_hut_benefit_score,IN661W,PONDS super light gel 0.25% menthol: IN661W,premium_product,5.0
+IN,FC,blind_hut_benefit_score,IN662W,PONDS super light gel original: IN662W,premium_product,5.19
+IN,FC,blind_hut_benefit_score,CN738W,TIMIER water rich protection makeup base: CN738W,premium_product,5.09
+IN,FC,blind_hut_benefit_score,CN750W,VASELINE glutahya lotion: CN750W,premium_product,5.08
+IN,FC,blind_hut_benefit_score,IN646W,VASELINE petroleum jelly: IN646W,premium_product,4.88
+IN,FC,blind_hut_benefit_score,CN743S,VASELINE radiant glow lotion: CN743S,premium_product,5.11
+IN,FC,blind_hut_benefit_score,IN654S,WHITE TONE soft and smooth face cream: IN654S,premium_product,5.17
+IN,FC,blind_hut_benefit_score,IN659W,ALBION skin conditioner: IN659W,premium_product,4.77
+IN,FC,blind_hut_benefit_score,IN652S,BOROPLUS antiseptic cream: IN652S,premium_product,4.97
+IN,FC,blind_hut_benefit_score,CN740S,CathKidston Rose Mask: CN740S,premium_product,4.9
+IN,FC,blind_hut_benefit_score,US241W,ELIZABETH ARDEN 8 hour cream: US241W,premium_product,4.24
+IN,FC,blind_hut_benefit_score,IN641S,Fragrance caring florals - VIP list LY: IN641S,premium_product,5.34
+IN,FC,blind_hut_benefit_score,IN649S,Nature republic aloe vera gel: IN649S,premium_product,5.21
+IN,FC,blind_hut_benefit_score,IN655S,OLAY Natural Aura 7 IN ONE Instant Glowing Radiance with UV Protection: IN655S,premium_product,5.14
+IN,FC,blind_hut_benefit_score,TH249W,OLAY retinol 24 night serum: TH249W,premium_product,4.78
+IN,FC,blind_hut_benefit_score,IN653S,PONDS B122: IN653S,premium_product,5.19
+IN,FC,blind_hut_benefit_score,IN663S,PONDS Bright Beauty Serum Cream: IN663S,premium_product,5.26
+IN,FC,blind_hut_benefit_score,IN640S,Fragrance fresh florals - celestial AI: IN640S,reduce_blemishes_and_dark_spots,5.12
+IN,FC,blind_hut_benefit_score,IN644S,Fragrance fresh fruits - Olay berry body lotion: IN644S,reduce_blemishes_and_dark_spots,5.08
+IN,FC,blind_hut_benefit_score,IN643S,Fragrance fresh fruits - bali beach LLF2: IN643S,reduce_blemishes_and_dark_spots,5.21
+IN,FC,blind_hut_benefit_score,IN639S,Fragrance natural freshness - highland M: IN639S,reduce_blemishes_and_dark_spots,5.08
+IN,FC,blind_hut_benefit_score,IN642S,Fragrance opulent florals - vibrant M: IN642S,reduce_blemishes_and_dark_spots,5.01
+IN,FC,blind_hut_benefit_score,IN637S,Fragrance sparkling freshness - uplifting: IN637S,reduce_blemishes_and_dark_spots,4.93
+IN,FC,blind_hut_benefit_score,IN647W,JOHNSONS baby oil: IN647W,reduce_blemishes_and_dark_spots,4.61
+IN,FC,blind_hut_benefit_score,TH248W,JOHNSONS baby powder: TH248W,reduce_blemishes_and_dark_spots,4.85
+IN,FC,blind_hut_benefit_score,CN747W,KIEHLS multi corrective cream: CN747W,reduce_blemishes_and_dark_spots,4.66
+IN,FC,blind_hut_benefit_score,IN638S,Fragrance technical freshness - SY22: IN638S,reduce_blemishes_and_dark_spots,4.99
+IN,FC,blind_hut_benefit_score,CN739W,PONDS upper eye cream sea flower: CN739W,reduce_blemishes_and_dark_spots,4.79
+IN,FC,blind_hut_benefit_score,IN657S,GARNIER vitamin C Cream: IN657S,reduce_blemishes_and_dark_spots,5.05
+IN,FC,blind_hut_benefit_score,CN744W,PROYA cream: CN744W,reduce_blemishes_and_dark_spots,4.79
+IN,FC,blind_hut_benefit_score,IN651W,GARNIER vitamin C Serum: IN651W,reduce_blemishes_and_dark_spots,4.78
+IN,FC,blind_hut_benefit_score,IN656S,GLOW AND LOVELY multivitamin cream: IN656S,reduce_blemishes_and_dark_spots,5.08
+IN,FC,blind_hut_benefit_score,K56W,HADALABO gel: K56W,reduce_blemishes_and_dark_spots,4.68
+IN,FC,blind_hut_benefit_score,IN648S,SAFI Youth Gold Lifting 24K Gold Essence: IN648S,reduce_blemishes_and_dark_spots,4.88
+IN,FC,blind_hut_benefit_score,J13S,SHISEIDO Aqua Label Special Gel Cream Oil In: J13S,reduce_blemishes_and_dark_spots,4.58
+IN,FC,blind_hut_benefit_score,CN737W,SOFINA pink primer: CN737W,reduce_blemishes_and_dark_spots,4.81
+IN,FC,blind_hut_benefit_score,IN666S,LAKME absolute hydra pro tinted moisturizer: IN666S,reduce_blemishes_and_dark_spots,5.06
+IN,FC,blind_hut_benefit_score,IN665S,LAKME mousse foundation: IN665S,reduce_blemishes_and_dark_spots,4.99
+IN,FC,blind_hut_benefit_score,RU02W,LOREAL PARIS 1.5% Pure Hyaluronic Acid Serum: RU02W,reduce_blemishes_and_dark_spots,4.66
+IN,FC,blind_hut_benefit_score,IN658W,PONDS Super Light Serum: IN658W,reduce_blemishes_and_dark_spots,4.62
+IN,FC,blind_hut_benefit_score,IN664S,PONDS cold cream: IN664S,reduce_blemishes_and_dark_spots,4.92
+IN,FC,blind_hut_benefit_score,US239W,SUPERGOOP sunscreen: US239W,reduce_blemishes_and_dark_spots,4.44
+IN,FC,blind_hut_benefit_score,IN660W,PONDS light moisturizer: IN660W,reduce_blemishes_and_dark_spots,5.03
+IN,FC,blind_hut_benefit_score,IN650W,PONDS piccolo serum: IN650W,reduce_blemishes_and_dark_spots,4.96
+IN,FC,blind_hut_benefit_score,IN661W,PONDS super light gel 0.25% menthol: IN661W,reduce_blemishes_and_dark_spots,4.79
+IN,FC,blind_hut_benefit_score,IN662W,PONDS super light gel original: IN662W,reduce_blemishes_and_dark_spots,4.99
+IN,FC,blind_hut_benefit_score,CN738W,TIMIER water rich protection makeup base: CN738W,reduce_blemishes_and_dark_spots,4.88
+IN,FC,blind_hut_benefit_score,CN750W,VASELINE glutahya lotion: CN750W,reduce_blemishes_and_dark_spots,4.94
+IN,FC,blind_hut_benefit_score,IN646W,VASELINE petroleum jelly: IN646W,reduce_blemishes_and_dark_spots,4.65
+IN,FC,blind_hut_benefit_score,CN743S,VASELINE radiant glow lotion: CN743S,reduce_blemishes_and_dark_spots,5.02
+IN,FC,blind_hut_benefit_score,IN654S,WHITE TONE soft and smooth face cream: IN654S,reduce_blemishes_and_dark_spots,5.05
+IN,FC,blind_hut_benefit_score,IN659W,ALBION skin conditioner: IN659W,reduce_blemishes_and_dark_spots,4.53
+IN,FC,blind_hut_benefit_score,IN652S,BOROPLUS antiseptic cream: IN652S,reduce_blemishes_and_dark_spots,4.78
+IN,FC,blind_hut_benefit_score,CN740S,CathKidston Rose Mask: CN740S,reduce_blemishes_and_dark_spots,4.74
+IN,FC,blind_hut_benefit_score,US241W,ELIZABETH ARDEN 8 hour cream: US241W,reduce_blemishes_and_dark_spots,4.1
+IN,FC,blind_hut_benefit_score,IN641S,Fragrance caring florals - VIP list LY: IN641S,reduce_blemishes_and_dark_spots,5.14
+IN,FC,blind_hut_benefit_score,IN649S,Nature republic aloe vera gel: IN649S,reduce_blemishes_and_dark_spots,4.88
+IN,FC,blind_hut_benefit_score,IN655S,OLAY Natural Aura 7 IN ONE Instant Glowing Radiance with UV Protection: IN655S,reduce_blemishes_and_dark_spots,4.97
+IN,FC,blind_hut_benefit_score,TH249W,OLAY retinol 24 night serum: TH249W,reduce_blemishes_and_dark_spots,4.58
+IN,FC,blind_hut_benefit_score,IN653S,PONDS B122: IN653S,reduce_blemishes_and_dark_spots,5.04
+IN,FC,blind_hut_benefit_score,IN663S,PONDS Bright Beauty Serum Cream: IN663S,reduce_blemishes_and_dark_spots,5.03
+IN,FC,blind_hut_benefit_score,IN640S,Fragrance fresh florals - celestial AI: IN640S,reduce_dark_circles,4.99
+IN,FC,blind_hut_benefit_score,IN644S,Fragrance fresh fruits - Olay berry body lotion: IN644S,reduce_dark_circles,4.94
+IN,FC,blind_hut_benefit_score,IN643S,Fragrance fresh fruits - bali beach LLF2: IN643S,reduce_dark_circles,5.06
+IN,FC,blind_hut_benefit_score,IN639S,Fragrance natural freshness - highland M: IN639S,reduce_dark_circles,4.99
+IN,FC,blind_hut_benefit_score,IN642S,Fragrance opulent florals - vibrant M: IN642S,reduce_dark_circles,4.91
+IN,FC,blind_hut_benefit_score,IN637S,Fragrance sparkling freshness - uplifting: IN637S,reduce_dark_circles,4.78
+IN,FC,blind_hut_benefit_score,IN647W,JOHNSONS baby oil: IN647W,reduce_dark_circles,4.5
+IN,FC,blind_hut_benefit_score,TH248W,JOHNSONS baby powder: TH248W,reduce_dark_circles,4.75
+IN,FC,blind_hut_benefit_score,CN747W,KIEHLS multi corrective cream: CN747W,reduce_dark_circles,4.6
+IN,FC,blind_hut_benefit_score,IN638S,Fragrance technical freshness - SY22: IN638S,reduce_dark_circles,4.84
+IN,FC,blind_hut_benefit_score,CN739W,PONDS upper eye cream sea flower: CN739W,reduce_dark_circles,4.72
+IN,FC,blind_hut_benefit_score,IN657S,GARNIER vitamin C Cream: IN657S,reduce_dark_circles,4.93
+IN,FC,blind_hut_benefit_score,CN744W,PROYA cream: CN744W,reduce_dark_circles,4.69
+IN,FC,blind_hut_benefit_score,IN651W,GARNIER vitamin C Serum: IN651W,reduce_dark_circles,4.74
+IN,FC,blind_hut_benefit_score,IN656S,GLOW AND LOVELY multivitamin cream: IN656S,reduce_dark_circles,4.94
+IN,FC,blind_hut_benefit_score,K56W,HADALABO gel: K56W,reduce_dark_circles,4.56
+IN,FC,blind_hut_benefit_score,IN648S,SAFI Youth Gold Lifting 24K Gold Essence: IN648S,reduce_dark_circles,4.87
+IN,FC,blind_hut_benefit_score,J13S,SHISEIDO Aqua Label Special Gel Cream Oil In: J13S,reduce_dark_circles,4.62
+IN,FC,blind_hut_benefit_score,CN737W,SOFINA pink primer: CN737W,reduce_dark_circles,4.68
+IN,FC,blind_hut_benefit_score,IN666S,LAKME absolute hydra pro tinted moisturizer: IN666S,reduce_dark_circles,4.96
+IN,FC,blind_hut_benefit_score,IN665S,LAKME mousse foundation: IN665S,reduce_dark_circles,4.9
+IN,FC,blind_hut_benefit_score,RU02W,LOREAL PARIS 1.5% Pure Hyaluronic Acid Serum: RU02W,reduce_dark_circles,4.52
+IN,FC,blind_hut_benefit_score,IN658W,PONDS Super Light Serum: IN658W,reduce_dark_circles,4.34
+IN,FC,blind_hut_benefit_score,IN664S,PONDS cold cream: IN664S,reduce_dark_circles,4.8
+IN,FC,blind_hut_benefit_score,US239W,SUPERGOOP sunscreen: US239W,reduce_dark_circles,4.34
+IN,FC,blind_hut_benefit_score,IN660W,PONDS light moisturizer: IN660W,reduce_dark_circles,4.92
+IN,FC,blind_hut_benefit_score,IN650W,PONDS piccolo serum: IN650W,reduce_dark_circles,4.91
+IN,FC,blind_hut_benefit_score,IN661W,PONDS super light gel 0.25% menthol: IN661W,reduce_dark_circles,4.66
+IN,FC,blind_hut_benefit_score,IN662W,PONDS super light gel original: IN662W,reduce_dark_circles,4.86
+IN,FC,blind_hut_benefit_score,CN738W,TIMIER water rich protection makeup base: CN738W,reduce_dark_circles,4.82
+IN,FC,blind_hut_benefit_score,CN750W,VASELINE glutahya lotion: CN750W,reduce_dark_circles,4.82
+IN,FC,blind_hut_benefit_score,IN646W,VASELINE petroleum jelly: IN646W,reduce_dark_circles,4.5
+IN,FC,blind_hut_benefit_score,CN743S,VASELINE radiant glow lotion: CN743S,reduce_dark_circles,4.87
+IN,FC,blind_hut_benefit_score,IN654S,WHITE TONE soft and smooth face cream: IN654S,reduce_dark_circles,4.85
+IN,FC,blind_hut_benefit_score,IN659W,ALBION skin conditioner: IN659W,reduce_dark_circles,4.37
+IN,FC,blind_hut_benefit_score,IN652S,BOROPLUS antiseptic cream: IN652S,reduce_dark_circles,4.71
+IN,FC,blind_hut_benefit_score,CN740S,CathKidston Rose Mask: CN740S,reduce_dark_circles,4.63
+IN,FC,blind_hut_benefit_score,US241W,ELIZABETH ARDEN 8 hour cream: US241W,reduce_dark_circles,3.99
+IN,FC,blind_hut_benefit_score,IN641S,Fragrance caring florals - VIP list LY: IN641S,reduce_dark_circles,5.02
+IN,FC,blind_hut_benefit_score,IN649S,Nature republic aloe vera gel: IN649S,reduce_dark_circles,4.75
+IN,FC,blind_hut_benefit_score,IN655S,OLAY Natural Aura 7 IN ONE Instant Glowing Radiance with UV Protection: IN655S,reduce_dark_circles,4.9
+IN,FC,blind_hut_benefit_score,TH249W,OLAY retinol 24 night serum: TH249W,reduce_dark_circles,4.44
+IN,FC,blind_hut_benefit_score,IN653S,PONDS B122: IN653S,reduce_dark_circles,4.93
+IN,FC,blind_hut_benefit_score,IN663S,PONDS Bright Beauty Serum Cream: IN663S,reduce_dark_circles,4.92
+IN,FC,blind_hut_benefit_score,IN640S,Fragrance fresh florals - celestial AI: IN640S,reduce_fine_lines_and_wrinkles,5.04
+IN,FC,blind_hut_benefit_score,IN644S,Fragrance fresh fruits - Olay berry body lotion: IN644S,reduce_fine_lines_and_wrinkles,5.04
+IN,FC,blind_hut_benefit_score,IN643S,Fragrance fresh fruits - bali beach LLF2: IN643S,reduce_fine_lines_and_wrinkles,5.1
+IN,FC,blind_hut_benefit_score,IN639S,Fragrance natural freshness - highland M: IN639S,reduce_fine_lines_and_wrinkles,4.98
+IN,FC,blind_hut_benefit_score,IN642S,Fragrance opulent florals - vibrant M: IN642S,reduce_fine_lines_and_wrinkles,4.94
+IN,FC,blind_hut_benefit_score,IN637S,Fragrance sparkling freshness - uplifting: IN637S,reduce_fine_lines_and_wrinkles,4.84
+IN,FC,blind_hut_benefit_score,IN647W,JOHNSONS baby oil: IN647W,reduce_fine_lines_and_wrinkles,4.57
+IN,FC,blind_hut_benefit_score,TH248W,JOHNSONS baby powder: TH248W,reduce_fine_lines_and_wrinkles,4.74
+IN,FC,blind_hut_benefit_score,CN747W,KIEHLS multi corrective cream: CN747W,reduce_fine_lines_and_wrinkles,4.62
+IN,FC,blind_hut_benefit_score,IN638S,Fragrance technical freshness - SY22: IN638S,reduce_fine_lines_and_wrinkles,4.84
+IN,FC,blind_hut_benefit_score,CN739W,PONDS upper eye cream sea flower: CN739W,reduce_fine_lines_and_wrinkles,4.78
+IN,FC,blind_hut_benefit_score,IN657S,GARNIER vitamin C Cream: IN657S,reduce_fine_lines_and_wrinkles,4.96
+IN,FC,blind_hut_benefit_score,CN744W,PROYA cream: CN744W,reduce_fine_lines_and_wrinkles,4.88
+IN,FC,blind_hut_benefit_score,IN651W,GARNIER vitamin C Serum: IN651W,reduce_fine_lines_and_wrinkles,4.78
+IN,FC,blind_hut_benefit_score,IN656S,GLOW AND LOVELY multivitamin cream: IN656S,reduce_fine_lines_and_wrinkles,4.98
+IN,FC,blind_hut_benefit_score,K56W,HADALABO gel: K56W,reduce_fine_lines_and_wrinkles,4.61
+IN,FC,blind_hut_benefit_score,IN648S,SAFI Youth Gold Lifting 24K Gold Essence: IN648S,reduce_fine_lines_and_wrinkles,4.88
+IN,FC,blind_hut_benefit_score,J13S,SHISEIDO Aqua Label Special Gel Cream Oil In: J13S,reduce_fine_lines_and_wrinkles,4.52
+IN,FC,blind_hut_benefit_score,CN737W,SOFINA pink primer: CN737W,reduce_fine_lines_and_wrinkles,4.7
+IN,FC,blind_hut_benefit_score,IN666S,LAKME absolute hydra pro tinted moisturizer: IN666S,reduce_fine_lines_and_wrinkles,5.0
+IN,FC,blind_hut_benefit_score,IN665S,LAKME mousse foundation: IN665S,reduce_fine_lines_and_wrinkles,4.87
+IN,FC,blind_hut_benefit_score,RU02W,LOREAL PARIS 1.5% Pure Hyaluronic Acid Serum: RU02W,reduce_fine_lines_and_wrinkles,4.62
+IN,FC,blind_hut_benefit_score,IN658W,PONDS Super Light Serum: IN658W,reduce_fine_lines_and_wrinkles,4.36
+IN,FC,blind_hut_benefit_score,IN664S,PONDS cold cream: IN664S,reduce_fine_lines_and_wrinkles,4.85
+IN,FC,blind_hut_benefit_score,US239W,SUPERGOOP sunscreen: US239W,reduce_fine_lines_and_wrinkles,4.41
+IN,FC,blind_hut_benefit_score,IN660W,PONDS light moisturizer: IN660W,reduce_fine_lines_and_wrinkles,4.97
+IN,FC,blind_hut_benefit_score,IN650W,PONDS piccolo serum: IN650W,reduce_fine_lines_and_wrinkles,4.93
+IN,FC,blind_hut_benefit_score,IN661W,PONDS super light gel 0.25% menthol: IN661W,reduce_fine_lines_and_wrinkles,4.73
+IN,FC,blind_hut_benefit_score,IN662W,PONDS super light gel original: IN662W,reduce_fine_lines_and_wrinkles,4.94
+IN,FC,blind_hut_benefit_score,CN738W,TIMIER water rich protection makeup base: CN738W,reduce_fine_lines_and_wrinkles,4.82
+IN,FC,blind_hut_benefit_score,CN750W,VASELINE glutahya lotion: CN750W,reduce_fine_lines_and_wrinkles,4.87
+IN,FC,blind_hut_benefit_score,IN646W,VASELINE petroleum jelly: IN646W,reduce_fine_lines_and_wrinkles,4.58
+IN,FC,blind_hut_benefit_score,CN743S,VASELINE radiant glow lotion: CN743S,reduce_fine_lines_and_wrinkles,4.98
+IN,FC,blind_hut_benefit_score,IN654S,WHITE TONE soft and smooth face cream: IN654S,reduce_fine_lines_and_wrinkles,4.93
+IN,FC,blind_hut_benefit_score,IN659W,ALBION skin conditioner: IN659W,reduce_fine_lines_and_wrinkles,4.47
+IN,FC,blind_hut_benefit_score,IN652S,BOROPLUS antiseptic cream: IN652S,reduce_fine_lines_and_wrinkles,4.75
+IN,FC,blind_hut_benefit_score,CN740S,CathKidston Rose Mask: CN740S,reduce_fine_lines_and_wrinkles,4.69
+IN,FC,blind_hut_benefit_score,US241W,ELIZABETH ARDEN 8 hour cream: US241W,reduce_fine_lines_and_wrinkles,4.0
+IN,FC,blind_hut_benefit_score,IN641S,Fragrance caring florals - VIP list LY: IN641S,reduce_fine_lines_and_wrinkles,5.04
+IN,FC,blind_hut_benefit_score,IN649S,Nature republic aloe vera gel: IN649S,reduce_fine_lines_and_wrinkles,4.86
+IN,FC,blind_hut_benefit_score,IN655S,OLAY Natural Aura 7 IN ONE Instant Glowing Radiance with UV Protection: IN655S,reduce_fine_lines_and_wrinkles,4.98
+IN,FC,blind_hut_benefit_score,TH249W,OLAY retinol 24 night serum: TH249W,reduce_fine_lines_and_wrinkles,4.48
+IN,FC,blind_hut_benefit_score,IN653S,PONDS B122: IN653S,reduce_fine_lines_and_wrinkles,4.95
+IN,FC,blind_hut_benefit_score,IN663S,PONDS Bright Beauty Serum Cream: IN663S,reduce_fine_lines_and_wrinkles,4.93
+IN,FC,blind_hut_benefit_score,IN640S,Fragrance fresh florals - celestial AI: IN640S,reduce_minimized_pores,5.15
+IN,FC,blind_hut_benefit_score,IN644S,Fragrance fresh fruits - Olay berry body lotion: IN644S,reduce_minimized_pores,5.12
+IN,FC,blind_hut_benefit_score,IN643S,Fragrance fresh fruits - bali beach LLF2: IN643S,reduce_minimized_pores,5.14
+IN,FC,blind_hut_benefit_score,IN639S,Fragrance natural freshness - highland M: IN639S,reduce_minimized_pores,5.13
+IN,FC,blind_hut_benefit_score,IN642S,Fragrance opulent florals - vibrant M: IN642S,reduce_minimized_pores,5.03
+IN,FC,blind_hut_benefit_score,IN637S,Fragrance sparkling freshness - uplifting: IN637S,reduce_minimized_pores,4.95
+IN,FC,blind_hut_benefit_score,IN647W,JOHNSONS baby oil: IN647W,reduce_minimized_pores,4.66
+IN,FC,blind_hut_benefit_score,TH248W,JOHNSONS baby powder: TH248W,reduce_minimized_pores,4.88
+IN,FC,blind_hut_benefit_score,CN747W,KIEHLS multi corrective cream: CN747W,reduce_minimized_pores,4.68
+IN,FC,blind_hut_benefit_score,IN638S,Fragrance technical freshness - SY22: IN638S,reduce_minimized_pores,4.95
+IN,FC,blind_hut_benefit_score,CN739W,PONDS upper eye cream sea flower: CN739W,reduce_minimized_pores,4.85
+IN,FC,blind_hut_benefit_score,IN657S,GARNIER vitamin C Cream: IN657S,reduce_minimized_pores,5.07
+IN,FC,blind_hut_benefit_score,CN744W,PROYA cream: CN744W,reduce_minimized_pores,4.89
+IN,FC,blind_hut_benefit_score,IN651W,GARNIER vitamin C Serum: IN651W,reduce_minimized_pores,4.84
+IN,FC,blind_hut_benefit_score,IN656S,GLOW AND LOVELY multivitamin cream: IN656S,reduce_minimized_pores,5.08
+IN,FC,blind_hut_benefit_score,K56W,HADALABO gel: K56W,reduce_minimized_pores,4.7
+IN,FC,blind_hut_benefit_score,IN648S,SAFI Youth Gold Lifting 24K Gold Essence: IN648S,reduce_minimized_pores,4.97
+IN,FC,blind_hut_benefit_score,J13S,SHISEIDO Aqua Label Special Gel Cream Oil In: J13S,reduce_minimized_pores,4.69
+IN,FC,blind_hut_benefit_score,CN737W,SOFINA pink primer: CN737W,reduce_minimized_pores,4.79
+IN,FC,blind_hut_benefit_score,IN666S,LAKME absolute hydra pro tinted moisturizer: IN666S,reduce_minimized_pores,5.08
+IN,FC,blind_hut_benefit_score,IN665S,LAKME mousse foundation: IN665S,reduce_minimized_pores,4.99
+IN,FC,blind_hut_benefit_score,RU02W,LOREAL PARIS 1.5% Pure Hyaluronic Acid Serum: RU02W,reduce_minimized_pores,4.67
+IN,FC,blind_hut_benefit_score,IN658W,PONDS Super Light Serum: IN658W,reduce_minimized_pores,4.47
+IN,FC,blind_hut_benefit_score,IN664S,PONDS cold cream: IN664S,reduce_minimized_pores,4.97
+IN,FC,blind_hut_benefit_score,US239W,SUPERGOOP sunscreen: US239W,reduce_minimized_pores,4.5
+IN,FC,blind_hut_benefit_score,IN660W,PONDS light moisturizer: IN660W,reduce_minimized_pores,5.04
+IN,FC,blind_hut_benefit_score,IN650W,PONDS piccolo serum: IN650W,reduce_minimized_pores,4.98
+IN,FC,blind_hut_benefit_score,IN661W,PONDS super light gel 0.25% menthol: IN661W,reduce_minimized_pores,4.82
+IN,FC,blind_hut_benefit_score,IN662W,PONDS super light gel original: IN662W,reduce_minimized_pores,5.03
+IN,FC,blind_hut_benefit_score,CN738W,TIMIER water rich protection makeup base: CN738W,reduce_minimized_pores,4.88
+IN,FC,blind_hut_benefit_score,CN750W,VASELINE glutahya lotion: CN750W,reduce_minimized_pores,4.96
+IN,FC,blind_hut_benefit_score,IN646W,VASELINE petroleum jelly: IN646W,reduce_minimized_pores,4.66
+IN,FC,blind_hut_benefit_score,CN743S,VASELINE radiant glow lotion: CN743S,reduce_minimized_pores,5.07
+IN,FC,blind_hut_benefit_score,IN654S,WHITE TONE soft and smooth face cream: IN654S,reduce_minimized_pores,5.07
+IN,FC,blind_hut_benefit_score,IN659W,ALBION skin conditioner: IN659W,reduce_minimized_pores,4.55
+IN,FC,blind_hut_benefit_score,IN652S,BOROPLUS antiseptic cream: IN652S,reduce_minimized_pores,4.82
+IN,FC,blind_hut_benefit_score,CN740S,CathKidston Rose Mask: CN740S,reduce_minimized_pores,4.82
+IN,FC,blind_hut_benefit_score,US241W,ELIZABETH ARDEN 8 hour cream: US241W,reduce_minimized_pores,4.1
+IN,FC,blind_hut_benefit_score,IN641S,Fragrance caring florals - VIP list LY: IN641S,reduce_minimized_pores,5.21
+IN,FC,blind_hut_benefit_score,IN649S,Nature republic aloe vera gel: IN649S,reduce_minimized_pores,4.99
+IN,FC,blind_hut_benefit_score,IN655S,OLAY Natural Aura 7 IN ONE Instant Glowing Radiance with UV Protection: IN655S,reduce_minimized_pores,4.99
+IN,FC,blind_hut_benefit_score,TH249W,OLAY retinol 24 night serum: TH249W,reduce_minimized_pores,4.63
+IN,FC,blind_hut_benefit_score,IN653S,PONDS B122: IN653S,reduce_minimized_pores,5.06
+IN,FC,blind_hut_benefit_score,IN663S,PONDS Bright Beauty Serum Cream: IN663S,reduce_minimized_pores,5.03
+IN,FC,blind_hut_benefit_score,IN640S,Fragrance fresh florals - celestial AI: IN640S,soft_and_smooth,5.28
+IN,FC,blind_hut_benefit_score,IN644S,Fragrance fresh fruits - Olay berry body lotion: IN644S,soft_and_smooth,5.27
+IN,FC,blind_hut_benefit_score,IN643S,Fragrance fresh fruits - bali beach LLF2: IN643S,soft_and_smooth,5.4
+IN,FC,blind_hut_benefit_score,IN639S,Fragrance natural freshness - highland M: IN639S,soft_and_smooth,5.26
+IN,FC,blind_hut_benefit_score,IN642S,Fragrance opulent florals - vibrant M: IN642S,soft_and_smooth,5.16
+IN,FC,blind_hut_benefit_score,IN637S,Fragrance sparkling freshness - uplifting: IN637S,soft_and_smooth,5.1
+IN,FC,blind_hut_benefit_score,IN647W,JOHNSONS baby oil: IN647W,soft_and_smooth,4.97
+IN,FC,blind_hut_benefit_score,TH248W,JOHNSONS baby powder: TH248W,soft_and_smooth,5.0
+IN,FC,blind_hut_benefit_score,CN747W,KIEHLS multi corrective cream: CN747W,soft_and_smooth,4.95
+IN,FC,blind_hut_benefit_score,IN638S,Fragrance technical freshness - SY22: IN638S,soft_and_smooth,5.06
+IN,FC,blind_hut_benefit_score,CN739W,PONDS upper eye cream sea flower: CN739W,soft_and_smooth,5.08
+IN,FC,blind_hut_benefit_score,IN657S,GARNIER vitamin C Cream: IN657S,soft_and_smooth,5.21
+IN,FC,blind_hut_benefit_score,CN744W,PROYA cream: CN744W,soft_and_smooth,5.17
+IN,FC,blind_hut_benefit_score,IN651W,GARNIER vitamin C Serum: IN651W,soft_and_smooth,5.09
+IN,FC,blind_hut_benefit_score,IN656S,GLOW AND LOVELY multivitamin cream: IN656S,soft_and_smooth,5.22
+IN,FC,blind_hut_benefit_score,K56W,HADALABO gel: K56W,soft_and_smooth,4.95
+IN,FC,blind_hut_benefit_score,IN648S,SAFI Youth Gold Lifting 24K Gold Essence: IN648S,soft_and_smooth,5.14
+IN,FC,blind_hut_benefit_score,J13S,SHISEIDO Aqua Label Special Gel Cream Oil In: J13S,soft_and_smooth,4.85
+IN,FC,blind_hut_benefit_score,CN737W,SOFINA pink primer: CN737W,soft_and_smooth,4.87
+IN,FC,blind_hut_benefit_score,IN666S,LAKME absolute hydra pro tinted moisturizer: IN666S,soft_and_smooth,5.28
+IN,FC,blind_hut_benefit_score,IN665S,LAKME mousse foundation: IN665S,soft_and_smooth,5.06
+IN,FC,blind_hut_benefit_score,RU02W,LOREAL PARIS 1.5% Pure Hyaluronic Acid Serum: RU02W,soft_and_smooth,4.88
+IN,FC,blind_hut_benefit_score,IN658W,PONDS Super Light Serum: IN658W,soft_and_smooth,4.74
+IN,FC,blind_hut_benefit_score,IN664S,PONDS cold cream: IN664S,soft_and_smooth,5.2
+IN,FC,blind_hut_benefit_score,US239W,SUPERGOOP sunscreen: US239W,soft_and_smooth,4.75
+IN,FC,blind_hut_benefit_score,IN660W,PONDS light moisturizer: IN660W,soft_and_smooth,5.31
+IN,FC,blind_hut_benefit_score,IN650W,PONDS piccolo serum: IN650W,soft_and_smooth,5.22
+IN,FC,blind_hut_benefit_score,IN661W,PONDS super light gel 0.25% menthol: IN661W,soft_and_smooth,5.03
+IN,FC,blind_hut_benefit_score,IN662W,PONDS super light gel original: IN662W,soft_and_smooth,5.26
+IN,FC,blind_hut_benefit_score,CN738W,TIMIER water rich protection makeup base: CN738W,soft_and_smooth,5.05
+IN,FC,blind_hut_benefit_score,CN750W,VASELINE glutahya lotion: CN750W,soft_and_smooth,5.17
+IN,FC,blind_hut_benefit_score,IN646W,VASELINE petroleum jelly: IN646W,soft_and_smooth,4.95
+IN,FC,blind_hut_benefit_score,CN743S,VASELINE radiant glow lotion: CN743S,soft_and_smooth,5.2
+IN,FC,blind_hut_benefit_score,IN654S,WHITE TONE soft and smooth face cream: IN654S,soft_and_smooth,5.18
+IN,FC,blind_hut_benefit_score,IN659W,ALBION skin conditioner: IN659W,soft_and_smooth,4.71
+IN,FC,blind_hut_benefit_score,IN652S,BOROPLUS antiseptic cream: IN652S,soft_and_smooth,5.1
+IN,FC,blind_hut_benefit_score,CN740S,CathKidston Rose Mask: CN740S,soft_and_smooth,5.08
+IN,FC,blind_hut_benefit_score,US241W,ELIZABETH ARDEN 8 hour cream: US241W,soft_and_smooth,4.32
+IN,FC,blind_hut_benefit_score,IN641S,Fragrance caring florals - VIP list LY: IN641S,soft_and_smooth,5.32
+IN,FC,blind_hut_benefit_score,IN649S,Nature republic aloe vera gel: IN649S,soft_and_smooth,5.22
+IN,FC,blind_hut_benefit_score,IN655S,OLAY Natural Aura 7 IN ONE Instant Glowing Radiance with UV Protection: IN655S,soft_and_smooth,5.16
+IN,FC,blind_hut_benefit_score,TH249W,OLAY retinol 24 night serum: TH249W,soft_and_smooth,4.81
+IN,FC,blind_hut_benefit_score,IN653S,PONDS B122: IN653S,soft_and_smooth,5.19
+IN,FC,blind_hut_benefit_score,IN663S,PONDS Bright Beauty Serum Cream: IN663S,soft_and_smooth,5.32
+IN,FC,blind_hut_benefit_score,IN640S,Fragrance fresh florals - celestial AI: IN640S,sun_protection,5.18
+IN,FC,blind_hut_benefit_score,IN644S,Fragrance fresh fruits - Olay berry body lotion: IN644S,sun_protection,5.19
+IN,FC,blind_hut_benefit_score,IN643S,Fragrance fresh fruits - bali beach LLF2: IN643S,sun_protection,5.23
+IN,FC,blind_hut_benefit_score,IN639S,Fragrance natural freshness - highland M: IN639S,sun_protection,5.14
+IN,FC,blind_hut_benefit_score,IN642S,Fragrance opulent florals - vibrant M: IN642S,sun_protection,5.01
+IN,FC,blind_hut_benefit_score,IN637S,Fragrance sparkling freshness - uplifting: IN637S,sun_protection,4.95
+IN,FC,blind_hut_benefit_score,IN647W,JOHNSONS baby oil: IN647W,sun_protection,4.75
+IN,FC,blind_hut_benefit_score,TH248W,JOHNSONS baby powder: TH248W,sun_protection,4.97
+IN,FC,blind_hut_benefit_score,CN747W,KIEHLS multi corrective cream: CN747W,sun_protection,4.76
+IN,FC,blind_hut_benefit_score,IN638S,Fragrance technical freshness - SY22: IN638S,sun_protection,4.95
+IN,FC,blind_hut_benefit_score,CN739W,PONDS upper eye cream sea flower: CN739W,sun_protection,4.83
+IN,FC,blind_hut_benefit_score,IN657S,GARNIER vitamin C Cream: IN657S,sun_protection,5.06
+IN,FC,blind_hut_benefit_score,CN744W,PROYA cream: CN744W,sun_protection,4.86
+IN,FC,blind_hut_benefit_score,IN651W,GARNIER vitamin C Serum: IN651W,sun_protection,4.91
+IN,FC,blind_hut_benefit_score,IN656S,GLOW AND LOVELY multivitamin cream: IN656S,sun_protection,5.06
+IN,FC,blind_hut_benefit_score,K56W,HADALABO gel: K56W,sun_protection,4.75
+IN,FC,blind_hut_benefit_score,IN648S,SAFI Youth Gold Lifting 24K Gold Essence: IN648S,sun_protection,4.98
+IN,FC,blind_hut_benefit_score,J13S,SHISEIDO Aqua Label Special Gel Cream Oil In: J13S,sun_protection,4.72
+IN,FC,blind_hut_benefit_score,CN737W,SOFINA pink primer: CN737W,sun_protection,4.78
+IN,FC,blind_hut_benefit_score,IN666S,LAKME absolute hydra pro tinted moisturizer: IN666S,sun_protection,5.05
+IN,FC,blind_hut_benefit_score,IN665S,LAKME mousse foundation: IN665S,sun_protection,5.01
+IN,FC,blind_hut_benefit_score,RU02W,LOREAL PARIS 1.5% Pure Hyaluronic Acid Serum: RU02W,sun_protection,4.7
+IN,FC,blind_hut_benefit_score,IN658W,PONDS Super Light Serum: IN658W,sun_protection,4.57
+IN,FC,blind_hut_benefit_score,IN664S,PONDS cold cream: IN664S,sun_protection,4.94
+IN,FC,blind_hut_benefit_score,US239W,SUPERGOOP sunscreen: US239W,sun_protection,4.56
+IN,FC,blind_hut_benefit_score,IN660W,PONDS light moisturizer: IN660W,sun_protection,5.12
+IN,FC,blind_hut_benefit_score,IN650W,PONDS piccolo serum: IN650W,sun_protection,5.04
+IN,FC,blind_hut_benefit_score,IN661W,PONDS super light gel 0.25% menthol: IN661W,sun_protection,4.88
+IN,FC,blind_hut_benefit_score,IN662W,PONDS super light gel original: IN662W,sun_protection,5.1
+IN,FC,blind_hut_benefit_score,CN738W,TIMIER water rich protection makeup base: CN738W,sun_protection,4.93
+IN,FC,blind_hut_benefit_score,CN750W,VASELINE glutahya lotion: CN750W,sun_protection,5.01
+IN,FC,blind_hut_benefit_score,IN646W,VASELINE petroleum jelly: IN646W,sun_protection,4.69
+IN,FC,blind_hut_benefit_score,CN743S,VASELINE radiant glow lotion: CN743S,sun_protection,5.04
+IN,FC,blind_hut_benefit_score,IN654S,WHITE TONE soft and smooth face cream: IN654S,sun_protection,4.99
+IN,FC,blind_hut_benefit_score,IN659W,ALBION skin conditioner: IN659W,sun_protection,4.65
+IN,FC,blind_hut_benefit_score,IN652S,BOROPLUS antiseptic cream: IN652S,sun_protection,4.83
+IN,FC,blind_hut_benefit_score,CN740S,CathKidston Rose Mask: CN740S,sun_protection,4.73
+IN,FC,blind_hut_benefit_score,US241W,ELIZABETH ARDEN 8 hour cream: US241W,sun_protection,4.17
+IN,FC,blind_hut_benefit_score,IN641S,Fragrance caring florals - VIP list LY: IN641S,sun_protection,5.14
+IN,FC,blind_hut_benefit_score,IN649S,Nature republic aloe vera gel: IN649S,sun_protection,4.98
+IN,FC,blind_hut_benefit_score,IN655S,OLAY Natural Aura 7 IN ONE Instant Glowing Radiance with UV Protection: IN655S,sun_protection,5.03
+IN,FC,blind_hut_benefit_score,TH249W,OLAY retinol 24 night serum: TH249W,sun_protection,4.66
+IN,FC,blind_hut_benefit_score,IN653S,PONDS B122: IN653S,sun_protection,5.11
+IN,FC,blind_hut_benefit_score,IN663S,PONDS Bright Beauty Serum Cream: IN663S,sun_protection,5.07

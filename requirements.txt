@@ -1,0 +1,7 @@
+flask>=3.0
+gunicorn>=22.0
+pandas>=2.2
+numpy>=1.26
+google-genai>=0.5
+google-auth>=2.20.0
+

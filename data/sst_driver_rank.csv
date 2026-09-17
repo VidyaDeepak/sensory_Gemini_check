@@ -1,0 +1,211 @@
+country_code,category_code,benefit,driver,driver_rank
+IN,FC,Fairness over time,CLT B1-2 Skin Look IMD,3
+IN,FC,Reduce blemishes and dark spots,CLT B3-4 Skin Look 10min,9
+IN,FC,Instant glow,CLT B3-4 Skin Look 10min,7
+IN,FC,Fairness over time,CLT B17-18 Fragrance 10min,4
+IN,FC,Reduce blemishes and dark spots,CLT B5-6 Fragrance In Jar,10
+IN,FC,No patchy look,CLT B3-4 Skin Look 10min,4
+IN,FC,Fairness over time,CLT B9-10 Skin feel IMD,5
+IN,FC,Fairness over time,CLT B11-12 CLT Skin Feel 10min,6
+IN,FC,Fairness over time,CLT B3-4 Skin Look 10min,7
+IN,FC,Fairness over time,CLT B15-16 CLT Fingertip,8
+IN,FC,Fairness over time,CLT B7-8 Skin feel IU,9
+IN,FC,Fairness over time,CLT M1-2 APPEARANCE,10
+IN,FC,Even tone,CLT B7-8 Skin feel IU,1
+IN,FC,Even tone,CLT B1-2 Skin Look IMD,2
+IN,FC,Even tone,CLT B15-16 CLT Fingertip,3
+IN,FC,Even tone,CLT B11-12 CLT Skin Feel 10min,4
+IN,FC,Even tone,CLT B13-14 CLT Fragrance IMD,5
+IN,FC,Even tone,CLT M1-2 APPEARANCE,6
+IN,FC,Even tone,CLT B3-4 Skin Look 10min,7
+IN,FC,Even tone,CLT B9-10 Skin feel IMD,8
+IN,FC,Even tone,CLT B17-18 Fragrance 10min,9
+IN,FC,Even tone,CLT B5-6 Fragrance In Jar,10
+IN,FC,Reduce blemishes and dark spots,CLT B1-2 Skin Look IMD,1
+IN,FC,Reduce blemishes and dark spots,CLT B13-14 CLT Fragrance IMD,2
+IN,FC,Reduce blemishes and dark spots,CLT M1-2 APPEARANCE,3
+IN,FC,Reduce blemishes and dark spots,CLT B7-8 Skin feel IU,4
+IN,FC,Reduce blemishes and dark spots,CLT B15-16 CLT Fingertip,5
+IN,FC,Reduce blemishes and dark spots,CLT B9-10 Skin feel IMD,6
+IN,FC,Reduce blemishes and dark spots,CLT B17-18 Fragrance 10min,7
+IN,FC,Reduce blemishes and dark spots,CLT B11-12 CLT Skin Feel 10min,8
+IN,FC,No patchy look,CLT B5-6 Fragrance In Jar,5
+IN,FC,No patchy look,CLT B1-2 Skin Look IMD,6
+IN,FC,No patchy look,CLT B17-18 Fragrance 10min,7
+IN,FC,No patchy look,CLT M1-2 APPEARANCE,8
+IN,FC,No patchy look,CLT B15-16 CLT Fingertip,9
+IN,FC,No patchy look,CLT B11-12 CLT Skin Feel 10min,10
+IN,FC,Premium product,CLT B13-14 CLT Fragrance IMD,1
+IN,FC,Premium product,CLT B17-18 Fragrance 10min,2
+IN,FC,Premium product,CLT B9-10 Skin feel IMD,3
+IN,FC,Premium product,CLT B1-2 Skin Look IMD,4
+IN,FC,Premium product,CLT B5-6 Fragrance In Jar,5
+IN,FC,Premium product,CLT B11-12 CLT Skin Feel 10min,6
+IN,FC,Premium product,CLT B15-16 CLT Fingertip,7
+IN,FC,Premium product,CLT B3-4 Skin Look 10min,8
+IN,FC,Premium product,CLT B7-8 Skin feel IU,9
+IN,FC,Premium product,CLT M1-2 APPEARANCE,10
+IN,FC,Mild and gentle on skin,CLT B1-2 Skin Look IMD,1
+IN,FC,Mild and gentle on skin,CLT B7-8 Skin feel IU,2
+IN,FC,Mild and gentle on skin,CLT B13-14 CLT Fragrance IMD,3
+IN,FC,Mild and gentle on skin,CLT M1-2 APPEARANCE,4
+IN,FC,Mild and gentle on skin,CLT B11-12 CLT Skin Feel 10min,5
+IN,FC,Mild and gentle on skin,CLT B5-6 Fragrance In Jar,6
+IN,FC,Mild and gentle on skin,CLT B17-18 Fragrance 10min,7
+IN,FC,Mild and gentle on skin,CLT B9-10 Skin feel IMD,8
+IN,FC,Mild and gentle on skin,CLT B15-16 CLT Fingertip,9
+IN,FC,Mild and gentle on skin,CLT B3-4 Skin Look 10min,10
+IN,FC,Overall opinion,CLT B7-8 Skin feel IU,1
+IN,FC,Reduce dark circles,CLT B11-12 CLT Skin Feel 10min,6
+IN,FC,Overall opinion,CLT B9-10 Skin feel IMD,2
+IN,FC,Reduce dark circles,CLT B15-16 CLT Fingertip,7
+IN,FC,Overall opinion,CLT B13-14 CLT Fragrance IMD,3
+IN,FC,Overall opinion,CLT B1-2 Skin Look IMD,4
+IN,FC,Overall opinion,CLT B5-6 Fragrance In Jar,5
+IN,FC,Overall opinion,CLT B11-12 CLT Skin Feel 10min,6
+IN,FC,Instant glow,CLT B7-8 Skin feel IU,8
+IN,FC,Reduce fine lines and wrinkles,CLT B9-10 Skin feel IMD,1
+IN,FC,Reduce fine lines and wrinkles,CLT M1-2 APPEARANCE,2
+IN,FC,Reduce fine lines and wrinkles,CLT B13-14 CLT Fragrance IMD,3
+IN,FC,Reduce fine lines and wrinkles,CLT B11-12 CLT Skin Feel 10min,4
+IN,FC,Reduce fine lines and wrinkles,CLT B17-18 Fragrance 10min,5
+IN,FC,Reduce fine lines and wrinkles,CLT B1-2 Skin Look IMD,6
+IN,FC,Reduce fine lines and wrinkles,CLT B5-6 Fragrance In Jar,7
+IN,FC,Reduce fine lines and wrinkles,CLT B7-8 Skin feel IU,8
+IN,FC,Reduce fine lines and wrinkles,CLT B15-16 CLT Fingertip,9
+IN,FC,Reduce fine lines and wrinkles,CLT B3-4 Skin Look 10min,10
+IN,FC,Makes skin firmer,CLT B15-16 CLT Fingertip,1
+IN,FC,Instant glow,CLT M1-2 APPEARANCE,9
+IN,FC,Makes skin firmer,CLT B13-14 CLT Fragrance IMD,2
+IN,FC,Instant glow,CLT B17-18 Fragrance 10min,10
+IN,FC,Makes skin firmer,CLT M1-2 APPEARANCE,3
+IN,FC,Instant brightness,CLT B1-2 Skin Look IMD,1
+IN,FC,Makes skin firmer,CLT B9-10 Skin feel IMD,4
+IN,FC,Instant brightness,CLT B13-14 CLT Fragrance IMD,2
+IN,FC,Makes skin firmer,CLT B1-2 Skin Look IMD,5
+IN,FC,Instant brightness,CLT B7-8 Skin feel IU,3
+IN,FC,Makes skin firmer,CLT B5-6 Fragrance In Jar,6
+IN,FC,Instant brightness,CLT B3-4 Skin Look 10min,4
+IN,FC,Makes skin firmer,CLT B17-18 Fragrance 10min,7
+IN,FC,Instant brightness,CLT B15-16 CLT Fingertip,5
+IN,FC,Makes skin firmer,CLT B11-12 CLT Skin Feel 10min,8
+IN,FC,Instant brightness,CLT B11-12 CLT Skin Feel 10min,6
+IN,FC,Makes skin firmer,CLT B3-4 Skin Look 10min,9
+IN,FC,Instant brightness,CLT B9-10 Skin feel IMD,7
+IN,FC,Makes skin firmer,CLT B7-8 Skin feel IU,10
+IN,FC,Instant brightness,CLT B5-6 Fragrance In Jar,8
+IN,FC,Reduce dark circles,CLT B13-14 CLT Fragrance IMD,1
+IN,FC,Instant brightness,CLT B17-18 Fragrance 10min,9
+IN,FC,Reduce dark circles,CLT B1-2 Skin Look IMD,2
+IN,FC,Instant brightness,CLT M1-2 APPEARANCE,10
+IN,FC,Reduce dark circles,CLT B17-18 Fragrance 10min,3
+IN,FC,Instant fairness,CLT B9-10 Skin feel IMD,1
+IN,FC,Reduce dark circles,CLT B3-4 Skin Look 10min,4
+IN,FC,Instant fairness,CLT B11-12 CLT Skin Feel 10min,2
+IN,FC,Reduce dark circles,CLT B9-10 Skin feel IMD,5
+IN,FC,Instant fairness,CLT B17-18 Fragrance 10min,3
+IN,FC,Instant fairness,CLT B1-2 Skin Look IMD,4
+IN,FC,Instant fairness,CLT B3-4 Skin Look 10min,5
+IN,FC,Instant fairness,CLT B13-14 CLT Fragrance IMD,6
+IN,FC,Instant fairness,CLT B5-6 Fragrance In Jar,7
+IN,FC,Instant fairness,CLT B15-16 CLT Fingertip,8
+IN,FC,Instant fairness,CLT B7-8 Skin feel IU,9
+IN,FC,Instant fairness,CLT M1-2 APPEARANCE,10
+IN,FC,Fairness over time,CLT B13-14 CLT Fragrance IMD,1
+IN,FC,Fairness over time,CLT B5-6 Fragrance In Jar,2
+IN,FC,Sun protection,CLT B15-16 CLT Fingertip,2
+IN,FC,Sun protection,CLT B13-14 CLT Fragrance IMD,3
+IN,FC,Sun protection,CLT B11-12 CLT Skin Feel 10min,4
+IN,FC,Sun protection,CLT B17-18 Fragrance 10min,5
+IN,FC,Sun protection,CLT B3-4 Skin Look 10min,6
+IN,FC,Sun protection,CLT B5-6 Fragrance In Jar,7
+IN,FC,Sun protection,CLT B7-8 Skin feel IU,8
+IN,FC,Sun protection,CLT B9-10 Skin feel IMD,9
+IN,FC,Sun protection,CLT M1-2 APPEARANCE,10
+IN,FC,Natural Product,CLT B11-12 CLT Skin Feel 10min,1
+IN,FC,Natural Product,CLT B17-18 Fragrance 10min,2
+IN,FC,Natural Product,CLT B1-2 Skin Look IMD,3
+IN,FC,Natural Product,CLT B13-14 CLT Fragrance IMD,4
+IN,FC,Overall opinion,CLT B17-18 Fragrance 10min,7
+IN,FC,Overall opinion,CLT M1-2 APPEARANCE,8
+IN,FC,Overall opinion,CLT B3-4 Skin Look 10min,9
+IN,FC,Overall opinion,CLT B15-16 CLT Fingertip,10
+IN,FC,Makes my skin glow,CLT B9-10 Skin feel IMD,1
+IN,FC,Makes my skin glow,CLT B1-2 Skin Look IMD,2
+IN,FC,Makes my skin glow,CLT B11-12 CLT Skin Feel 10min,3
+IN,FC,Makes my skin glow,CLT M1-2 APPEARANCE,4
+IN,FC,Makes my skin glow,CLT B5-6 Fragrance In Jar,5
+IN,FC,Makes my skin glow,CLT B17-18 Fragrance 10min,6
+IN,FC,Makes my skin glow,CLT B15-16 CLT Fingertip,7
+IN,FC,Makes my skin glow,CLT B3-4 Skin Look 10min,8
+IN,FC,Makes my skin glow,CLT B13-14 CLT Fragrance IMD,9
+IN,FC,Makes my skin glow,CLT B7-8 Skin feel IU,10
+IN,FC,Instant glow,CLT B9-10 Skin feel IMD,1
+IN,FC,Instant glow,CLT B1-2 Skin Look IMD,2
+IN,FC,Instant glow,CLT B5-6 Fragrance In Jar,3
+IN,FC,Instant glow,CLT B11-12 CLT Skin Feel 10min,4
+IN,FC,Instant glow,CLT B15-16 CLT Fingertip,5
+IN,FC,Instant glow,CLT B13-14 CLT Fragrance IMD,6
+IN,FC,Reduce dark circles,CLT B5-6 Fragrance In Jar,8
+IN,FC,Reduce dark circles,CLT B7-8 Skin feel IU,9
+IN,FC,Reduce dark circles,CLT M1-2 APPEARANCE,10
+IN,FC,Moisturization,CLT B7-8 Skin feel IU,1
+IN,FC,Moisturization,CLT B5-6 Fragrance In Jar,2
+IN,FC,Moisturization,CLT B9-10 Skin feel IMD,3
+IN,FC,Moisturization,CLT M1-2 APPEARANCE,4
+IN,FC,Moisturization,CLT B17-18 Fragrance 10min,5
+IN,FC,Moisturization,CLT B3-4 Skin Look 10min,6
+IN,FC,Moisturization,CLT B13-14 CLT Fragrance IMD,7
+IN,FC,Moisturization,CLT B15-16 CLT Fingertip,8
+IN,FC,Moisturization,CLT B1-2 Skin Look IMD,9
+IN,FC,Moisturization,CLT B11-12 CLT Skin Feel 10min,10
+IN,FC,Soft and Smooth,CLT B17-18 Fragrance 10min,1
+IN,FC,Soft and Smooth,CLT B7-8 Skin feel IU,2
+IN,FC,Soft and Smooth,CLT B5-6 Fragrance In Jar,3
+IN,FC,Soft and Smooth,CLT B9-10 Skin feel IMD,4
+IN,FC,Soft and Smooth,CLT M1-2 APPEARANCE,5
+IN,FC,Soft and Smooth,CLT B15-16 CLT Fingertip,6
+IN,FC,Soft and Smooth,CLT B11-12 CLT Skin Feel 10min,7
+IN,FC,Soft and Smooth,CLT B1-2 Skin Look IMD,8
+IN,FC,Soft and Smooth,CLT B13-14 CLT Fragrance IMD,9
+IN,FC,Soft and Smooth,CLT B3-4 Skin Look 10min,10
+IN,FC,Sun protection,CLT B1-2 Skin Look IMD,1
+IN,FC,Reduce minimized pores,CLT B3-4 Skin Look 10min,8
+IN,FC,Reduce minimized pores,CLT B9-10 Skin feel IMD,9
+IN,FC,Reduce minimized pores,CLT M1-2 APPEARANCE,10
+IN,FC,No unwanted oiliness,CLT B5-6 Fragrance In Jar,1
+IN,FC,No unwanted oiliness,CLT B13-14 CLT Fragrance IMD,2
+IN,FC,No unwanted oiliness,CLT M1-2 APPEARANCE,3
+IN,FC,No unwanted oiliness,CLT B15-16 CLT Fingertip,4
+IN,FC,No unwanted oiliness,CLT B17-18 Fragrance 10min,5
+IN,FC,No unwanted oiliness,CLT B9-10 Skin feel IMD,6
+IN,FC,No unwanted oiliness,CLT B1-2 Skin Look IMD,7
+IN,FC,No unwanted oiliness,CLT B11-12 CLT Skin Feel 10min,8
+IN,FC,No unwanted oiliness,CLT B3-4 Skin Look 10min,9
+IN,FC,No unwanted oiliness,CLT B7-8 Skin feel IU,10
+IN,FC,No sweating during the day,CLT B5-6 Fragrance In Jar,1
+IN,FC,No sweating during the day,CLT B9-10 Skin feel IMD,2
+IN,FC,No sweating during the day,CLT B13-14 CLT Fragrance IMD,3
+IN,FC,No sweating during the day,CLT M1-2 APPEARANCE,4
+IN,FC,No sweating during the day,CLT B17-18 Fragrance 10min,5
+IN,FC,No sweating during the day,CLT B11-12 CLT Skin Feel 10min,6
+IN,FC,No sweating during the day,CLT B15-16 CLT Fingertip,7
+IN,FC,No sweating during the day,CLT B7-8 Skin feel IU,8
+IN,FC,No sweating during the day,CLT B3-4 Skin Look 10min,9
+IN,FC,No sweating during the day,CLT B1-2 Skin Look IMD,10
+IN,FC,No patchy look,CLT B13-14 CLT Fragrance IMD,1
+IN,FC,No patchy look,CLT B7-8 Skin feel IU,2
+IN,FC,No patchy look,CLT B9-10 Skin feel IMD,3
+IN,FC,Natural Product,CLT B9-10 Skin feel IMD,5
+IN,FC,Natural Product,CLT B3-4 Skin Look 10min,6
+IN,FC,Natural Product,CLT M1-2 APPEARANCE,7
+IN,FC,Natural Product,CLT B15-16 CLT Fingertip,8
+IN,FC,Natural Product,CLT B5-6 Fragrance In Jar,9
+IN,FC,Natural Product,CLT B7-8 Skin feel IU,10
+IN,FC,Reduce minimized pores,CLT B1-2 Skin Look IMD,1
+IN,FC,Reduce minimized pores,CLT B13-14 CLT Fragrance IMD,2
+IN,FC,Reduce minimized pores,CLT B17-18 Fragrance 10min,3
+IN,FC,Reduce minimized pores,CLT B7-8 Skin feel IU,4
+IN,FC,Reduce minimized pores,CLT B5-6 Fragrance In Jar,5
+IN,FC,Reduce minimized pores,CLT B15-16 CLT Fingertip,6
+IN,FC,Reduce minimized pores,CLT B11-12 CLT Skin Feel 10min,7
