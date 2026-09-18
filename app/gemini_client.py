@@ -15,7 +15,7 @@ from typing import Optional
 logger = logging.getLogger(__name__)
 
 USE_LLM_SUMMARY = os.environ.get("USE_LLM_SUMMARY", "true").lower() == "true"
-GCP_LOCATION = os.environ.get("GCP_LOCATION", "us-central1")
+GCP_LOCATION = os.environ.get("GCP_LOCATION", "Global")
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
 
 # Bounds every call this client makes (summary rewrite + the agent router,
